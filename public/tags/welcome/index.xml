@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Welcome on Barbara Denney - Portfolio</title>
+    <link>http://localhost:1313/tags/welcome/</link>
+    <description>Recent content in Welcome on Barbara Denney - Portfolio</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Jul 2025 23:45:49 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to My Portfolio!</title>
+      <link>http://localhost:1313/posts/welcome/</link>
+      <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
+      <guid>http://localhost:1313/posts/welcome/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-my-portfolio&#34;&gt;Welcome to My Portfolio!&lt;/h1&gt;
+&lt;p&gt;Hello and welcome to my new portfolio website! I&amp;rsquo;m excited to share this space with you.&lt;/p&gt;
+&lt;h2 id=&#34;what-youll-find-here&#34;&gt;What You&amp;rsquo;ll Find Here&lt;/h2&gt;
+&lt;p&gt;This portfolio showcases my work, thoughts, and journey as a developer. You&amp;rsquo;ll find:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;About Me&lt;/strong&gt;: Learn more about my background and experience&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projects&lt;/strong&gt;: Explore the work I&amp;rsquo;ve done and am currently working on&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blog Posts&lt;/strong&gt;: Thoughts, tutorials, and insights from my development journey&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contact&lt;/strong&gt;: Ways to get in touch with me&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;built-with-hugo--papermod&#34;&gt;Built With Hugo &amp;amp; PaperMod&lt;/h2&gt;
+&lt;p&gt;This site is built using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, a fast and flexible static site generator, with the beautiful &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt; theme.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

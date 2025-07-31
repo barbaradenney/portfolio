@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Barbara Denney - Portfolio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Barbara Denney - Portfolio</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Jul 2025 23:45:49 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to My Portfolio!</title>
+      <link>http://localhost:1313/posts/welcome/</link>
+      <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
+      <guid>http://localhost:1313/posts/welcome/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-my-portfolio&#34;&gt;Welcome to My Portfolio!&lt;/h1&gt;
+&lt;p&gt;Hello and welcome to my new portfolio website! I&amp;rsquo;m excited to share this space with you.&lt;/p&gt;
+&lt;h2 id=&#34;what-youll-find-here&#34;&gt;What You&amp;rsquo;ll Find Here&lt;/h2&gt;
+&lt;p&gt;This portfolio showcases my work, thoughts, and journey as a developer. You&amp;rsquo;ll find:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;About Me&lt;/strong&gt;: Learn more about my background and experience&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projects&lt;/strong&gt;: Explore the work I&amp;rsquo;ve done and am currently working on&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blog Posts&lt;/strong&gt;: Thoughts, tutorials, and insights from my development journey&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contact&lt;/strong&gt;: Ways to get in touch with me&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;built-with-hugo--papermod&#34;&gt;Built With Hugo &amp;amp; PaperMod&lt;/h2&gt;
+&lt;p&gt;This site is built using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, a fast and flexible static site generator, with the beautiful &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt; theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Me</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Wed, 30 Jul 2025 23:45:43 -0600</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h1 id=&#34;get-in-touch&#34;&gt;Get In Touch&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;d love to hear from you! Whether you have a project in mind, want to collaborate, or just want to say hello.&lt;/p&gt;
+&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:your-email@example.com&#34;&gt;your-email@example.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://linkedin.com/in/&#34;&gt;linkedin.com/in/your-profile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/&#34;&gt;github.com/your-username&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lets-connect&#34;&gt;Let&amp;rsquo;s Connect&lt;/h2&gt;
+&lt;p&gt;Feel free to reach out through any of the channels above. I&amp;rsquo;m always interested in discussing new opportunities and interesting projects.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Looking forward to connecting with you!&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Wed, 30 Jul 2025 23:45:33 -0600</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h1 id=&#34;my-projects&#34;&gt;My Projects&lt;/h1&gt;
+&lt;p&gt;Here are some of the projects I&amp;rsquo;ve worked on:&lt;/p&gt;
+&lt;h2 id=&#34;project-1-portfolio-website&#34;&gt;Project 1: Portfolio Website&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: This Hugo-based portfolio website built with PaperMod theme&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technologies&lt;/strong&gt;: Hugo, Markdown, CSS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Status&lt;/strong&gt;: Active&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-2-coming-soon&#34;&gt;Project 2: Coming Soon&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: More exciting projects will be added here&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technologies&lt;/strong&gt;: TBD&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Status&lt;/strong&gt;: In Planning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-3-open-source-contributions&#34;&gt;Project 3: Open Source Contributions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Various contributions to open-source projects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technologies&lt;/strong&gt;: Multiple&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Status&lt;/strong&gt;: Ongoing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Feel free to check out my &lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; for more details on my work!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 30 Jul 2025 23:45:25 -0600</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+&lt;p&gt;Welcome to my portfolio! I&amp;rsquo;m Barbara Denney, a passionate developer with experience in creating innovative solutions.&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;I have a strong background in software development and enjoy working on challenging projects that make a difference.&lt;/p&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Web Development&lt;/li&gt;
+&lt;li&gt;Software Engineering&lt;/li&gt;
+&lt;li&gt;Problem Solving&lt;/li&gt;
+&lt;li&gt;Project Management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;interests&#34;&gt;Interests&lt;/h2&gt;
+&lt;p&gt;When I&amp;rsquo;m not coding, I enjoy exploring new technologies and contributing to open-source projects.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
