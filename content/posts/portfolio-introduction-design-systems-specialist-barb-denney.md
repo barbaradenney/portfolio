@@ -8,7 +8,9 @@ categories: ["blog"]
 
 # Welcome to My Portfolio!
 
-Hello and welcome to my new portfolio website! I'm excited to share this space with you.
+Hello! 
+
+My name is Barb Denney, I'm a Designer that specializes in Design Systems. I have 5 years of experienced in creating scalable, compliant Design Systems for Medicare.gov, CMS.gov, and VA.gov. I work in Figma and code. I started my career as a Web Designer almost 20 years ago, moved into UX, and now am starting era of my career exploring AI and Design Systems.
 
 ## What You'll Find Here
 
@@ -22,12 +24,4 @@ This portfolio showcases my work, thoughts, and journey as a developer. You'll f
 ## Built With Hugo & PaperMod
 
 This site is built using [Hugo](https://gohugo.io/), a fast and flexible static site generator, with the beautiful [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
-
-## Stay Tuned
-
-I'll be regularly updating this site with new projects, blog posts, and improvements. Thanks for visiting!
-
----
-
-*Happy coding!* 🚀
 

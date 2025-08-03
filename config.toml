@@ -1,11 +1,11 @@
 baseURL = 'https://barbaradenney.github.io/'
 languageCode = 'en-us'
-title = 'Barbara Denney - Portfolio'
+title = 'Barbara Denney'
 theme = 'PaperMod'
 
 [params]
   env = "production"
-  description = "Barbara Denney's Portfolio Website"
+  description = "Barbara Denney"
   author = "Barbara Denney"
   
   # Theme settings
@@ -25,16 +25,16 @@ theme = 'PaperMod'
   tocopen = false
 
   # Home page settings
-  homeInfoParams = { Title = "Hi there! 👋", Content = "Welcome to my portfolio website. I'm Barbara Denney." }
+  homeInfoParams = { Title = "Hi there! 👋", Content = "My name is Barb Denney, I'm a Designer that specializes in Design Systems. I have 5 years of experienced creating scalable, compliant Design Systems for Medicare.gov, CMS.gov, and VA.gov. I work in Figma and code." }
 
   # Social icons
   [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/"
+    url = "https://github.com/babsdenney"
 
   [[params.socialIcons]]
     name = "linkedin"
-    url = "https://linkedin.com/in/"
+    url = "https://www.linkedin.com/in/barbara-denney/"
 
 [menu]
   [[menu.main]]

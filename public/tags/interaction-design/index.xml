@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Interaction Design on Barbara Denney</title>
+    <link>http://localhost:1313/tags/interaction-design/</link>
+    <description>Recent content in Interaction Design on Barbara Denney</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Jul 2025 23:45:49 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/interaction-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design System Series: Reflection on Early Lessons</title>
+      <link>http://localhost:1313/posts/design-system-ai-tabs/</link>
+      <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
+      <guid>http://localhost:1313/posts/design-system-ai-tabs/</guid>
+      <description>&lt;h1 id=&#34;design-system-series-using-ai-to-prototype-tab-components&#34;&gt;Design System Series: Using AI to Prototype Tab Components&lt;/h1&gt;
+&lt;h2 id=&#34;the-challenge-of-tabs&#34;&gt;The Challenge of Tabs&lt;/h2&gt;
+&lt;p&gt;When our team took on the task of designing a tab component, we knew it would be more complicated than it seemed. Tabs are deceptively simple, but under the surface they come with complex usability and accessibility considerations.&lt;/p&gt;
+&lt;p&gt;Some of the questions we had to solve:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What happens when tabs exceed the width of the screen?&lt;/li&gt;
+&lt;li&gt;Should tabs work with in-page navigation or update the URL?&lt;/li&gt;
+&lt;li&gt;How do we support users at 400% zoom or on screens narrower than 320px?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;exploring-overflow-solutions&#34;&gt;Exploring Overflow Solutions&lt;/h2&gt;
+&lt;p&gt;We considered three possible patterns:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
