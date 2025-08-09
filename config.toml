@@ -1,0 +1,64 @@
+baseURL = 'https://barbaradenney.github.io/'
+languageCode = 'en-us'
+title = 'Barbara Denney'
+theme = 'PaperMod'
+
+[params]
+  env = "production"
+  description = "Barbara Denney"
+ 
+  
+  # Theme settings
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = true
+  showtoc = false
+  tocopen = false
+
+  # Home page settings
+  homeInfoParams = { Title = "Hi there! 👋", Content = "My name is Barb Denney, I'm a Designer that specializes in Design Systems. I have 5 years of experienced creating scalable, compliant Design Systems for Medicare.gov, CMS.gov, and VA.gov. I work in Figma and code." }
+
+  # Social icons
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/babsdenney"
+    title = "GitHub"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/barbara-denney/"
+    title = "LinkedIn"
+
+  [[params.socialIcons]]
+    name = "cv"
+    url = "/resume.pdf"
+    title = "Resume"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+    
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 30
