@@ -10,16 +10,69 @@
     <atom:link href="http://localhost:1313/tags/%23design-systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design System Series: Part 1 – Why We Built It</title>
-      <link>http://localhost:1313/posts/starting-a-ds-part1/</link>
+      <link>http://localhost:1313/posts/design-system-series-part1-why-we-built-government-website/</link>
       <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
-      <guid>http://localhost:1313/posts/starting-a-ds-part1/</guid>
-      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-&lt;p&gt;The client’s website was undergoing a bold redesign: new tech, new processes, new branding.&lt;/p&gt;
-&lt;p&gt;Initially, things were going well until we learned another team’s redesign (still in testing) looked very different, despite being based on the same kit. This discrepancy highlighted the need for a &lt;strong&gt;shared resource&lt;/strong&gt;: a Design System.&lt;/p&gt;
-&lt;p&gt;This was our turning point—not just a visual mismatch, but a systemic need for alignment.&lt;/p&gt;
+      <guid>http://localhost:1313/posts/design-system-series-part1-why-we-built-government-website/</guid>
+      <description>&lt;h2 id=&#34;design-system-series-navigation&#34;&gt;Design System Series Navigation&lt;/h2&gt;
+&lt;p&gt;📚 &lt;strong&gt;Complete Series:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Part 1: Why We Built It&lt;/strong&gt; &lt;em&gt;(You are here)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part2-gaining-stakeholder-buy-in-government/&#34;&gt;Part 2: Gaining Stakeholder Buy-In&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part3-breaking-silos-team-communication/&#34;&gt;Part 3: Breaking Down Silos Through Communication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part4-driving-team-adoption-strategies/&#34;&gt;Part 4: Driving Team Adoption&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part5-lessons-learned-starting-design-system/&#34;&gt;Part 5: Lessons Learned&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Government contracting, in general, can pose many unique challenges regarding communication and alignment when building a product.&lt;/p&gt;</description>
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;The client’s website was undergoing a bold redesign: new tech, new processes, new branding.&lt;/p&gt;
+&lt;p&gt;Initially, things were going well until we learned another team’s redesign (still in testing) looked very different, despite being based on the same kit. This discrepancy highlighted the need for a &lt;strong&gt;shared resource&lt;/strong&gt;: a Design System.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Experimenting with Annotation Mode in Figma</title>
+      <link>http://localhost:1313/posts/figma-annotation-mode-experiment-design-systems-workflow/</link>
+      <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
+      <guid>http://localhost:1313/posts/figma-annotation-mode-experiment-design-systems-workflow/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Our design team recently began exploring a new way to annotate designs directly in Figma. While searching for examples of this technique online, we came up short—which made us wonder if other teams were thinking about this the same way we were.&lt;/p&gt;
+&lt;p&gt;Figma already supports switching between properties using &lt;strong&gt;modes&lt;/strong&gt;—great for themes like light/dark mode or responsive layouts. We started asking: could we use this same functionality to annotate?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reflection on Early Lessons</title>
+      <link>http://localhost:1313/posts/design-system-operational-processes-sustainability-reflection/</link>
+      <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
+      <guid>http://localhost:1313/posts/design-system-operational-processes-sustainability-reflection/</guid>
+      <description>&lt;h2 id=&#34;looking-back-on-hard-won-lessons&#34;&gt;Looking Back on Hard-Won Lessons&lt;/h2&gt;
+&lt;p&gt;A few years ago, I wrote a &lt;a href=&#34;https://adhoc.team/2022/07/18/using-design-systems-digital-success-federal-space/&#34;&gt;blog post&lt;/a&gt; reflecting on the early lessons from establishing a new design system. The big ideas I shared then—creating alignment, scaling consistency, building shared patterns—remain as relevant as ever.&lt;/p&gt;
+&lt;p&gt;But with more experience under my belt, I&amp;rsquo;ve come to understand that &lt;strong&gt;operational processes&lt;/strong&gt; are the invisible foundation that determines whether a design system thrives or slowly deteriorates.&lt;/p&gt;
+&lt;h2 id=&#34;the-operational-layer-that-changes-everything&#34;&gt;The Operational Layer That Changes Everything&lt;/h2&gt;
+&lt;p&gt;Here&amp;rsquo;s what I&amp;rsquo;ve learned about the unglamorous but critical processes that make design systems sustainable:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Using AI to Prototype Tab Components</title>
+      <link>http://localhost:1313/posts/ai-assisted-prototyping-tab-components-design-systems/</link>
+      <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
+      <guid>http://localhost:1313/posts/ai-assisted-prototyping-tab-components-design-systems/</guid>
+      <description>&lt;h2 id=&#34;the-challenge-of-tabs&#34;&gt;The Challenge of Tabs&lt;/h2&gt;
+&lt;p&gt;When our team took on the task of designing a tab component, we knew it would be more complicated than it seemed. Tabs are deceptively simple, but under the surface they come with complex usability and accessibility considerations.&lt;/p&gt;
+&lt;p&gt;Some of the questions we had to solve:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What happens when tabs exceed the width of the screen?&lt;/li&gt;
+&lt;li&gt;Should tabs work with in-page navigation or update the URL?&lt;/li&gt;
+&lt;li&gt;How do we support users at 400% zoom or on screens narrower than 320px?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;exploring-overflow-solutions&#34;&gt;Exploring Overflow Solutions&lt;/h2&gt;
+&lt;p&gt;We considered three possible patterns:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Will Figma Survive the AI Revolution?</title>
+      <link>http://localhost:1313/posts/figma-ai-revolution-future-design-tools-coded-prototypes/</link>
+      <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
+      <guid>http://localhost:1313/posts/figma-ai-revolution-future-design-tools-coded-prototypes/</guid>
+      <description>&lt;h2 id=&#34;looking-backand-forward&#34;&gt;Looking Back—and Forward&lt;/h2&gt;
+&lt;p&gt;Figma just went public, and it’s a reminder of how dominant the tool has become in the design world. Our team switched to Figma last year and immediately saw huge improvements in collaboration, consistency, and speed. We were late adopters, but happy ones.&lt;/p&gt;
+&lt;p&gt;It also got me thinking—what comes next?&lt;/p&gt;
+&lt;h2 id=&#34;from-photoshop-to-prompts&#34;&gt;From Photoshop to Prompts&lt;/h2&gt;
+&lt;p&gt;When I started in design, the primary tool was Adobe Photoshop. Then came Sketch, which offered web-focused workflows. Then Figma brought it all to the cloud, at the perfect moment for remote work. It felt like a natural evolution.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

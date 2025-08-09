@@ -1,0 +1,86 @@
+/* Hero Background Images - Theme Switching for Homepage */
+body.list  {
+    min-height: 100vh;
+    position: relative;
+    background-size: 60%;
+    background-position: 100% 0;
+    background-repeat: no-repeat;
+}
+
+/* Light theme background */
+[data-theme="light"] body.list {
+    background-image: url('/light-hero.png');
+}
+
+/* Dark theme background */
+[data-theme="dark"] body.list {
+    background-image: url('/dark-hero.png');
+}
+
+/* Auto theme - defaults to light, switches with system preference */
+body.list:not([data-theme="dark"]) {
+    background-image: url('/light-hero.png');
+}
+
+@media (prefers-color-scheme: dark) {
+    body.list:not([data-theme="light"]) {
+        background-image: url('/dark-hero.png');
+    }
+}
+
+/* Improve text readability over hero image */
+/* body.list .home-info {
+    background: rgba(var(--theme), 0.85);
+    backdrop-filter: blur(10px);
+    border-radius: 12px;
+    padding: 2rem;
+    margin: 2rem auto;
+    max-width: 600px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+} */
+
+/* Custom styling for social icons with text labels */
+.social-icon-link {
+    display: inline-flex !important;
+    align-items: center;
+    gap: 8px;
+    margin-right: 16px;
+    text-decoration: none;
+    color: var(--primary);
+}
+
+.social-icon-text {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.social-icons {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 8px;
+}
+
+/* Ensure SVG icons maintain proper size */
+.social-icon-link svg {
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+}
+
+/* Responsive behavior */
+@media (max-width: 768px) {
+    .social-icon-link {
+        margin-right: 12px;
+        margin-bottom: 8px;
+    }
+    
+    .social-icon-text {
+        font-size: 13px;
+    }
+    
+    .home .home-info {
+        margin: 1rem;
+        padding: 1.5rem;
+    }
+}

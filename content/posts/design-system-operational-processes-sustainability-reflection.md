@@ -1,27 +1,36 @@
 ---
-title: "Design System Series: Reflection on Early Lessons"
+title: "Reflection on Early Lessons"
 date: 2025-07-30T23:45:49-06:00
 draft: false
 tags: ["#Design Systems", "Design Ops"]
 categories: ["blog"]
 ---
 
-## Revisiting a Past Post
+## Looking Back on Hard-Won Lessons
 
-One of my goals a few years ago was to write a blog post about the lessons I learned while helping to establish a new design system. Now that I’ve been working on design systems for a while, I’ve had the opportunity to reflect on what still rings true—and what I’d update.
+A few years ago, I wrote a [blog post](https://adhoc.team/2022/07/18/using-design-systems-digital-success-federal-space/) reflecting on the early lessons from establishing a new design system. The big ideas I shared then—creating alignment, scaling consistency, building shared patterns—remain as relevant as ever.
 
-The original post focused on big-picture ideas: creating alignment, scaling consistency, and the power of shared patterns. All of that still holds up. But I’ve since realized that it’s the **operational layer**—the repeatable processes—that really make a design system sustainable.
+But with more experience under my belt, I've come to understand that **operational processes** are the invisible foundation that determines whether a design system thrives or slowly deteriorates.
 
-## What I’d Add Today
+## The Operational Layer That Changes Everything
 
-The details matter. Here are a few areas where operationalizing the design system added significant value:
+Here's what I've learned about the unglamorous but critical processes that make design systems sustainable:
 
-- **Adding icons**: Having a documented flow for when and how new icons are introduced helps avoid clutter and keeps things predictable.
-- **Adding tokens**: Whether for spacing, color, or typography, consistent token management reduces drift across teams.
-- **Release notes**: Publishing updates, no matter how small, makes sure that teams stay informed and trust the system.
-- **Publishing to Figma**: Smooth integration with design tools helps adoption. We created a defined publishing schedule and checklist.
-- **Contribution process**: It’s not a design system if it’s a black box. Clear contribution paths turn users into collaborators.
-- **Communication of changes**: Announcements, demos, and even Slack reminders help keep the system alive.
+### Support Infrastructure
+**Help desk workflows** became essential as adoption grew. We standardized our issue tracking through GitHub—every request, bug report, and question gets documented. This creates accountability and helps us spot patterns in user needs.
+
+**Governance** Having a dedicated review process to make sure teams are following guidelines and using the correct components is a helpful process that acts as checks and balances for the Design System. Sometimes the governance team finds places where further guidance and clarification is needed. Other times the governance teams uses the design system to verify teams are implementing 
+
+**Design System Council**
+
+### Documented Processes
+Small, repeatable workflows prevent chaos: 
+- **Icon additions**: A clear approval process prevents icon bloat and maintains visual consistency
+- **Token management**: Structured approaches to spacing, color, and typography tokens prevent design drift across teams
+- **Release documentation**: Even minor updates deserve release notes—transparency builds trust
+- **Figma publishing**: We established regular publishing schedules with quality checklists to ensure smooth designer handoffs
+- **Contribution pathways**: Open contribution processes transform users into stakeholders and collaborators
+- **Change communication**: Strategic announcements, demos, and proactive Slack updates keep the system visible and relevant
 
 ## Final Thought
 

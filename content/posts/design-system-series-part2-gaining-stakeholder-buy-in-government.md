@@ -19,7 +19,7 @@ categories: ["blog"]
 
 One of the most critical steps in establishing a design system—especially within a government contract or large organization—is gaining stakeholder buy-in. Without it, a design system risks being sidelined as "extra work" instead of being seen as an essential part of product development.
 
-## Why Stakeholders Matter
+## Why Stakeholder Buy-in Matter
 
 - **They have the full view.** Stakeholders are often the only people who understand the broader context across teams. They can see the inconsistencies and inefficiencies that arise when every team works in silos.
 - **They control contracts.** In government environments, no team can pivot to prioritize a design system unless stakeholders authorize and fund that effort.
@@ -27,15 +27,17 @@ One of the most critical steps in establishing a design system—especially with
 
 ## How We Got Buy-In
 
-1. **Show, don’t just tell.** We created presentations specifically showing how a design system would directly address the inconsistency issues leadership had already identified. Generic arguments weren’t enough—we tailored our case to our client’s real pain points.
+1. **Show, don’t just tell.** We created presentations specifically showing how a design system would directly address the inconsistency issues leadership had already identified. 
 
 2. **Own the problem.** Rather than just identifying a lack of alignment, we actively started exploring solutions. This persistence in trying to solve the problem signaled to leadership that we were serious.
 
-3. **Build an MVP.** We developed a simple, minimum viable product of what a design system might look like. Whether using a third-party tool or an internal doc site, having something tangible helped stakeholders visualize the value.
+3. **Build an MVP.** We developed a simple, minimum viable product of what a design system might look like. Having something tangible helped stakeholders visualize the value.
 
 ---
 
 Getting buy-in didn’t happen overnight. But with consistency, clear examples, and solution-driven energy, we got the support we needed to move forward.
+
+With stakeholders on board our next step was to get other teams to buy-in.
 
 ---
 

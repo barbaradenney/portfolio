@@ -28,10 +28,10 @@ Once stakeholder buy-in was secured, the next big challenge was building bridges
 ## How We Tackled It
 
 **1. The Tiger Team**  
-We established a "tiger team"—a dedicated group of one designer from each product team tasked with resolving design system issues and aligning on design decisions. This wasn’t just a working group; it became a space for trust-building. Meeting biweekly, this team reviewed components and collaborated on solutions.
+We established a "tiger team" that had one dedicated designer from each product team tasked with resolving design system issues and aligning on design decisions. This wasn’t just a working group; it became a space for trust-building. Meeting biweekly, this team reviewed components and collaborated on solutions.
 
 **2. Design System Sprint**  
-Once the tiger team was functioning well, leadership wanted to accelerate results. We launched a focused design system sprint. While this deserves its own post, the sprint fast-tracked alignment by setting clear, short-term goals and concentrating full team efforts on shared outcomes.
+Once the tiger team was functioning well, leadership wanted to accelerate results. We launched a focused design system sprint. The sprint fast-tracked alignment by setting clear, short-term goals and concentrating full team efforts on shared outcomes.
 
 **3. Workshops**  
 We ran workshops for design audits, process retrospectives, and implementation planning. These sessions not only yielded useful feedback but also strengthened bonds between team members who rarely had the chance to collaborate directly.

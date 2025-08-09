@@ -10,16 +10,90 @@
     <atom:link href="http://localhost:1313/tags/government-tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design System Series: Part 1 – Why We Built It</title>
-      <link>http://localhost:1313/posts/starting-a-ds-part1/</link>
+      <link>http://localhost:1313/posts/design-system-series-part1-why-we-built-government-website/</link>
       <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
-      <guid>http://localhost:1313/posts/starting-a-ds-part1/</guid>
-      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-&lt;p&gt;The client’s website was undergoing a bold redesign: new tech, new processes, new branding.&lt;/p&gt;
-&lt;p&gt;Initially, things were going well until we learned another team’s redesign (still in testing) looked very different, despite being based on the same kit. This discrepancy highlighted the need for a &lt;strong&gt;shared resource&lt;/strong&gt;: a Design System.&lt;/p&gt;
-&lt;p&gt;This was our turning point—not just a visual mismatch, but a systemic need for alignment.&lt;/p&gt;
+      <guid>http://localhost:1313/posts/design-system-series-part1-why-we-built-government-website/</guid>
+      <description>&lt;h2 id=&#34;design-system-series-navigation&#34;&gt;Design System Series Navigation&lt;/h2&gt;
+&lt;p&gt;📚 &lt;strong&gt;Complete Series:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Part 1: Why We Built It&lt;/strong&gt; &lt;em&gt;(You are here)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part2-gaining-stakeholder-buy-in-government/&#34;&gt;Part 2: Gaining Stakeholder Buy-In&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part3-breaking-silos-team-communication/&#34;&gt;Part 3: Breaking Down Silos Through Communication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part4-driving-team-adoption-strategies/&#34;&gt;Part 4: Driving Team Adoption&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part5-lessons-learned-starting-design-system/&#34;&gt;Part 5: Lessons Learned&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Government contracting, in general, can pose many unique challenges regarding communication and alignment when building a product.&lt;/p&gt;</description>
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;The client’s website was undergoing a bold redesign: new tech, new processes, new branding.&lt;/p&gt;
+&lt;p&gt;Initially, things were going well until we learned another team’s redesign (still in testing) looked very different, despite being based on the same kit. This discrepancy highlighted the need for a &lt;strong&gt;shared resource&lt;/strong&gt;: a Design System.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Design System Series: Part 2 – Gaining Stakeholder Buy-In</title>
+      <link>http://localhost:1313/posts/design-system-series-part2-gaining-stakeholder-buy-in-government/</link>
+      <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
+      <guid>http://localhost:1313/posts/design-system-series-part2-gaining-stakeholder-buy-in-government/</guid>
+      <description>&lt;h2 id=&#34;design-system-series-navigation&#34;&gt;Design System Series Navigation&lt;/h2&gt;
+&lt;p&gt;📚 &lt;strong&gt;Complete Series:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part1-why-we-built-government-website/&#34;&gt;Part 1: Why We Built It&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Part 2: Gaining Stakeholder Buy-In&lt;/strong&gt; &lt;em&gt;(You are here)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part3-breaking-silos-team-communication/&#34;&gt;Part 3: Breaking Down Silos Through Communication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part4-driving-team-adoption-strategies/&#34;&gt;Part 4: Driving Team Adoption&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part5-lessons-learned-starting-design-system/&#34;&gt;Part 5: Lessons Learned&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;One of the most critical steps in establishing a design system—especially within a government contract or large organization—is gaining stakeholder buy-in. Without it, a design system risks being sidelined as &amp;ldquo;extra work&amp;rdquo; instead of being seen as an essential part of product development.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Design System Series: Part 3 – Breaking Down Silos Through Communication</title>
+      <link>http://localhost:1313/posts/design-system-series-part3-breaking-silos-team-communication/</link>
+      <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
+      <guid>http://localhost:1313/posts/design-system-series-part3-breaking-silos-team-communication/</guid>
+      <description>&lt;h2 id=&#34;design-system-series-navigation&#34;&gt;Design System Series Navigation&lt;/h2&gt;
+&lt;p&gt;📚 &lt;strong&gt;Complete Series:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part1-why-we-built-government-website/&#34;&gt;Part 1: Why We Built It&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part2-gaining-stakeholder-buy-in-government/&#34;&gt;Part 2: Gaining Stakeholder Buy-In&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Part 3: Breaking Down Silos Through Communication&lt;/strong&gt; &lt;em&gt;(You are here)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part4-driving-team-adoption-strategies/&#34;&gt;Part 4: Driving Team Adoption&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part5-lessons-learned-starting-design-system/&#34;&gt;Part 5: Lessons Learned&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Once stakeholder buy-in was secured, the next big challenge was building bridges between siloed teams. In large organizations or government contracts, teams often operate in isolation—with little incentive (and sometimes active disincentives) to share information. This makes cross-functional alignment incredibly difficult.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Design System Series: Part 4 – Driving Team Adoption</title>
+      <link>http://localhost:1313/posts/design-system-series-part4-driving-team-adoption-strategies/</link>
+      <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
+      <guid>http://localhost:1313/posts/design-system-series-part4-driving-team-adoption-strategies/</guid>
+      <description>&lt;h2 id=&#34;design-system-series-navigation&#34;&gt;Design System Series Navigation&lt;/h2&gt;
+&lt;p&gt;📚 &lt;strong&gt;Complete Series:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part1-why-we-built-government-website/&#34;&gt;Part 1: Why We Built It&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part2-gaining-stakeholder-buy-in-government/&#34;&gt;Part 2: Gaining Stakeholder Buy-In&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part3-breaking-silos-team-communication/&#34;&gt;Part 3: Breaking Down Silos Through Communication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Part 4: Driving Team Adoption&lt;/strong&gt; &lt;em&gt;(You are here)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part5-lessons-learned-starting-design-system/&#34;&gt;Part 5: Lessons Learned&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Even with strong leadership support and cross-team communication in place, getting individual teams to adopt the design system is an entirely different challenge. Each team has their own roadmap, their own deadlines, and often their own way of doing things. Adoption requires time, effort, and a shift in mindset—and none of that happens by accident.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Design System Series: Part 5 – Lessons Learned from Starting a Design System</title>
+      <link>http://localhost:1313/posts/design-system-series-part5-lessons-learned-starting-design-system/</link>
+      <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
+      <guid>http://localhost:1313/posts/design-system-series-part5-lessons-learned-starting-design-system/</guid>
+      <description>&lt;h2 id=&#34;design-system-series-navigation&#34;&gt;Design System Series Navigation&lt;/h2&gt;
+&lt;p&gt;📚 &lt;strong&gt;Complete Series:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part1-why-we-built-government-website/&#34;&gt;Part 1: Why We Built It&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part2-gaining-stakeholder-buy-in-government/&#34;&gt;Part 2: Gaining Stakeholder Buy-In&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part3-breaking-silos-team-communication/&#34;&gt;Part 3: Breaking Down Silos Through Communication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../design-system-series-part4-driving-team-adoption-strategies/&#34;&gt;Part 4: Driving Team Adoption&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Part 5: Lessons Learned&lt;/strong&gt; &lt;em&gt;(You are here)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;After months of collaboration, testing, and iteration, the design system had grown from a simple idea into an adopted framework across multiple teams. But it wasn’t always a smooth journey. Like most large initiatives, it came with important lessons—some expected, many surprising.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

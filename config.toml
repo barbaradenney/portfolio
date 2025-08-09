@@ -6,11 +6,12 @@ theme = 'PaperMod'
 [params]
   env = "production"
   description = "Barbara Denney"
-  author = "Barbara Denney"
+ 
   
   # Theme settings
+  defaultTheme = "auto"
   ShowReadingTime = true
-  ShowShareButtons = true
+  ShowShareButtons = false
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
@@ -20,7 +21,7 @@ theme = 'PaperMod'
   disableScrollToTop = false
   comments = false
   hidemeta = false
-  hideSummary = false
+  hideSummary = true
   showtoc = false
   tocopen = false
 
@@ -31,10 +32,17 @@ theme = 'PaperMod'
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/babsdenney"
+    title = "GitHub"
 
   [[params.socialIcons]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/barbara-denney/"
+    title = "LinkedIn"
+
+  [[params.socialIcons]]
+    name = "cv"
+    url = "/resume.pdf"
+    title = "Resume"
 
 [menu]
   [[menu.main]]
@@ -44,13 +52,13 @@ theme = 'PaperMod'
     weight = 10
     
   [[menu.main]]
-    identifier = "projects"
-    name = "Projects" 
-    url = "/projects/"
-    weight = 20
-    
-  [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
     weight = 30

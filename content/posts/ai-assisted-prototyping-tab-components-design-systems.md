@@ -24,9 +24,21 @@ We considered three possible patterns:
 
 Each option had trade-offs depending on content density, accessibility, and implementation constraints.
 
+### Tabs - Stacked
+
+ {{< codepen user="babsdenney" id="LEpyOoO" >}}
+
+### Tabs - Dropdown
+
+ {{< codepen user="babsdenney" id="pvjPdQo" >}}
+
+### Tabs - Horizontal scroll
+
+{{< codepen user="babsdenney" id="GgpmOzX" >}}
+
 ## Enter AI-Assisted Prototyping
 
-Rather than mock each version in Figma, I turned to ChatGPT to prototype them directly in code. I described the desired behavior, and it returned HTML, CSS, and JavaScript that I pasted into CodePen.
+Rather than mock each version in Figma, I turned to ChatGPT to prototype them directly in code. I described the desired behavior, reuired it use the USWDS as a framework and it returned HTML, CSS, and JavaScript that I pasted into CodePen.
 
 It wasn’t entirely hands-free—I still had to style and refine the code—but the AI-generated base saved hours of work. The end result was:
 - A working prototype I could test at different screen sizes
@@ -37,7 +49,7 @@ It wasn’t entirely hands-free—I still had to style and refine the code—but
 
 Some components are better tested in code than in static mockups. Tabs are one of them. This process made the handoff smoother and the design decisions clearer.
 
-Using AI to assist in prototyping helped me move from idea to interaction quickly. It also made me rethink when and where we prototype: in Figma or in the browser.
+Using AI to assist in prototyping helped me move from idea to interaction quickly.
 
 ---
 

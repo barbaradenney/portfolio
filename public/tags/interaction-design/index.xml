@@ -9,12 +9,11 @@
     <lastBuildDate>Wed, 30 Jul 2025 23:45:49 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/interaction-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Design System Series: Reflection on Early Lessons</title>
-      <link>http://localhost:1313/posts/design-system-ai-tabs/</link>
+      <title>Using AI to Prototype Tab Components</title>
+      <link>http://localhost:1313/posts/ai-assisted-prototyping-tab-components-design-systems/</link>
       <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
-      <guid>http://localhost:1313/posts/design-system-ai-tabs/</guid>
-      <description>&lt;h1 id=&#34;design-system-series-using-ai-to-prototype-tab-components&#34;&gt;Design System Series: Using AI to Prototype Tab Components&lt;/h1&gt;
-&lt;h2 id=&#34;the-challenge-of-tabs&#34;&gt;The Challenge of Tabs&lt;/h2&gt;
+      <guid>http://localhost:1313/posts/ai-assisted-prototyping-tab-components-design-systems/</guid>
+      <description>&lt;h2 id=&#34;the-challenge-of-tabs&#34;&gt;The Challenge of Tabs&lt;/h2&gt;
 &lt;p&gt;When our team took on the task of designing a tab component, we knew it would be more complicated than it seemed. Tabs are deceptively simple, but under the surface they come with complex usability and accessibility considerations.&lt;/p&gt;
 &lt;p&gt;Some of the questions we had to solve:&lt;/p&gt;
 &lt;ul&gt;

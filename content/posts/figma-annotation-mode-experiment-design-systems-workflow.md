@@ -22,16 +22,20 @@ But here’s the catch: as soon as you change the layout, those overlays become 
 
 We tried something different. What if we embedded the spacing annotations directly into the mockups and used **modes** to toggle their visibility?
 
+![Boolean variables to turn on or off annotations](figmaAnnotationBoolean.png)
+
 This way, we could:
 - Edit spacing and layout without breaking the annotations
 - Include other toggled visibility helpers (like spec labels, dev notes)
 - Keep a clean default view for design reviews
 
-It’s still a work in progress, but so far it’s proving to be a lightweight and flexible alternative to traditional annotation overlays.
+![Annotation mode demonstration](annotationModeFigma.gif)
+
+It’s still just an experiment right now, but so far it’s proving to be a lightweight and flexible alternative to traditional annotation overlays.
 
 ## Open Question
 
-We’re curious: is this something other design systems teams are doing? If you’ve explored annotation workflows in Figma, we’d love to hear how you’re handling it.
+Is this something other designers are doing? If you’ve explored annotation workflows in Figma, I’d love to hear how you’re handling it.
 
 ---
 

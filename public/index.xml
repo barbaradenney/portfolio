@@ -13,8 +13,10 @@
       <link>http://localhost:1313/posts/building-scalable-design-system-multiple-products-theming-approach/</link>
       <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
       <guid>http://localhost:1313/posts/building-scalable-design-system-multiple-products-theming-approach/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;As digital products evolve, so too must the systems that support their design and development. The initial success of our design system prompted a decision to expand the project, bringing more resources and focus to ensure that it could scale across a broader range of products. After the initial rollout, the stakeholders committed additional time and funding, leading to the expansion of the contract and a full-time designer role dedicated to the system. Having worked part-time on the design system, I was able to transition into this full-time role and contribute to the system&amp;rsquo;s growth.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;problem-multiple-products-one-system&#34;&gt;Problem: Multiple Products, One System&lt;/h3&gt;
+&lt;p&gt;The current design system had been created for a single product and we now needed to update the design system to support more products. Expanding it required rethinking how we could serve multiple brands under one umbrella. The new design system would have to allow unique guidance, components, and design resources for multiple products without overwhelming users with unnecessary complexity.&lt;/p&gt;
+&lt;h2 id=&#34;the-solution-a-theming-approach-to-product-diversity&#34;&gt;The Solution: A Theming Approach to Product Diversity&lt;/h2&gt;
+&lt;p&gt;To solve this challenge, we implemented a theming solution. Theming allows the design system to be flexible and adaptable, providing a seamless experience for users across different products. Here’s how it works:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Design System Series: Part 1 – Why We Built It</title>
@@ -104,15 +106,6 @@
 &lt;p&gt;After months of collaboration, testing, and iteration, the design system had grown from a simple idea into an adopted framework across multiple teams. But it wasn’t always a smooth journey. Like most large initiatives, it came with important lessons—some expected, many surprising.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Design System Series: Reflection on Early Lessons</title>
-      <link>http://localhost:1313/posts/design-system-operational-processes-sustainability-reflection/</link>
-      <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
-      <guid>http://localhost:1313/posts/design-system-operational-processes-sustainability-reflection/</guid>
-      <description>&lt;h2 id=&#34;revisiting-a-past-post&#34;&gt;Revisiting a Past Post&lt;/h2&gt;
-&lt;p&gt;One of my goals a few years ago was to write a blog post about the lessons I learned while helping to establish a new design system. Now that I’ve been working on design systems for a while, I’ve had the opportunity to reflect on what still rings true—and what I’d update.&lt;/p&gt;
-&lt;p&gt;The original post focused on big-picture ideas: creating alignment, scaling consistency, and the power of shared patterns. All of that still holds up. But I’ve since realized that it’s the &lt;strong&gt;operational layer&lt;/strong&gt;—the repeatable processes—that really make a design system sustainable.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Experimenting with Annotation Mode in Figma</title>
       <link>http://localhost:1313/posts/figma-annotation-mode-experiment-design-systems-workflow/</link>
       <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
@@ -120,6 +113,17 @@
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Our design team recently began exploring a new way to annotate designs directly in Figma. While searching for examples of this technique online, we came up short—which made us wonder if other teams were thinking about this the same way we were.&lt;/p&gt;
 &lt;p&gt;Figma already supports switching between properties using &lt;strong&gt;modes&lt;/strong&gt;—great for themes like light/dark mode or responsive layouts. We started asking: could we use this same functionality to annotate?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reflection on Early Lessons</title>
+      <link>http://localhost:1313/posts/design-system-operational-processes-sustainability-reflection/</link>
+      <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
+      <guid>http://localhost:1313/posts/design-system-operational-processes-sustainability-reflection/</guid>
+      <description>&lt;h2 id=&#34;looking-back-on-hard-won-lessons&#34;&gt;Looking Back on Hard-Won Lessons&lt;/h2&gt;
+&lt;p&gt;A few years ago, I wrote a &lt;a href=&#34;https://adhoc.team/2022/07/18/using-design-systems-digital-success-federal-space/&#34;&gt;blog post&lt;/a&gt; reflecting on the early lessons from establishing a new design system. The big ideas I shared then—creating alignment, scaling consistency, building shared patterns—remain as relevant as ever.&lt;/p&gt;
+&lt;p&gt;But with more experience under my belt, I&amp;rsquo;ve come to understand that &lt;strong&gt;operational processes&lt;/strong&gt; are the invisible foundation that determines whether a design system thrives or slowly deteriorates.&lt;/p&gt;
+&lt;h2 id=&#34;the-operational-layer-that-changes-everything&#34;&gt;The Operational Layer That Changes Everything&lt;/h2&gt;
+&lt;p&gt;Here&amp;rsquo;s what I&amp;rsquo;ve learned about the unglamorous but critical processes that make design systems sustainable:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Using AI to Prototype Tab Components</title>
@@ -138,17 +142,6 @@
 &lt;p&gt;We considered three possible patterns:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Welcome to My Portfolio!</title>
-      <link>http://localhost:1313/posts/portfolio-introduction-design-systems-specialist-barb-denney/</link>
-      <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
-      <guid>http://localhost:1313/posts/portfolio-introduction-design-systems-specialist-barb-denney/</guid>
-      <description>&lt;h1 id=&#34;welcome-to-my-portfolio&#34;&gt;Welcome to My Portfolio!&lt;/h1&gt;
-&lt;p&gt;Hello!&lt;/p&gt;
-&lt;p&gt;My name is Barb Denney, I&amp;rsquo;m a Designer that specializes in Design Systems. I have 5 years of experienced in creating scalable, compliant Design Systems for Medicare.gov, CMS.gov, and VA.gov. I work in Figma and code. I started my career as a Web Designer almost 20 years ago, moved into UX, and now am starting era of my career exploring AI and Design Systems.&lt;/p&gt;
-&lt;h2 id=&#34;what-youll-find-here&#34;&gt;What You&amp;rsquo;ll Find Here&lt;/h2&gt;
-&lt;p&gt;This portfolio showcases my work, thoughts, and journey as a developer. You&amp;rsquo;ll find:&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Will Figma Survive the AI Revolution?</title>
       <link>http://localhost:1313/posts/figma-ai-revolution-future-design-tools-coded-prototypes/</link>
       <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
@@ -164,13 +157,11 @@
       <link>http://localhost:1313/contact/</link>
       <pubDate>Wed, 30 Jul 2025 23:45:43 -0600</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;h1 id=&#34;get-in-touch&#34;&gt;Get In Touch&lt;/h1&gt;
-&lt;p&gt;I&amp;rsquo;d love to hear from you! Whether you have a project in mind, want to collaborate, or just want to say hello.&lt;/p&gt;
-&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:your-email@example.com&#34;&gt;your-email@example.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://linkedin.com/in/&#34;&gt;linkedin.com/in/your-profile&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/&#34;&gt;github.com/your-username&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:hi@barbaradenney.com&#34;&gt;hi@barbaradenney.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://www.linkedin.com/in/barbara-denney/&#34;&gt;https://www.linkedin.com/in/barbara-denney/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/babsdenney&#34;&gt;https://github.com/babsdenney&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;lets-connect&#34;&gt;Let&amp;rsquo;s Connect&lt;/h2&gt;
 &lt;p&gt;Feel free to reach out through any of the channels above. I&amp;rsquo;m always interested in discussing new opportunities and interesting projects.&lt;/p&gt;
@@ -209,12 +200,8 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 30 Jul 2025 23:45:25 -0600</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;I started my career as a Web Designer almost 20 years ago, moved into UX, and now am starting the next era of my career exploring how AI is changing how we design and how AI can improve consistency and make Design Systems more effective.&lt;/p&gt;
-&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
-&lt;p&gt;Design Systems, Design Tokens, UI Kits, Pattern Documentation, Static Site Generators, Figma, Git/GitHub, Accessibility, Agile, Project and Stakeholder management&lt;/p&gt;
-&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Bachelor of Science (B.S.) – Computer Software Engineering&lt;/strong&gt;
-&lt;em&gt;Western Governors University | 2019 – 2021&lt;/em&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;I started my career as a Web Designer 20 years ago making computer based training modules in Flash, moved into UX converting desktop applications to cloud-based ones, and currently help support design systems. Now, the next new shift in technology has begun and we are now all trying to figure out how AI will transform the web as we use it today.&lt;/p&gt;
+&lt;p&gt;I currently reside in Colorado Springs, Colorado and enjoy doodling and running.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

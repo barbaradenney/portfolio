@@ -6,27 +6,23 @@ tags: ["Design Systems", "Design Ops"]
 categories: ["blog"]
 ---
 
-## Introduction
-
-As digital products evolve, so too must the systems that support their design and development. The initial success of our design system prompted a decision to expand the project, bringing more resources and focus to ensure that it could scale across a broader range of products. After the initial rollout, the stakeholders committed additional time and funding, leading to the expansion of the contract and a full-time designer role dedicated to the system. Having worked part-time on the design system, I was able to transition into this full-time role and contribute to the system's growth.
-
-## The Challenge: Accommodating Multiple Brands in One System
-
-When the design system was first created, it was built to support a single product. However, as the project expanded to include more products, the system’s limitations became apparent. The original design system, with its components and guidelines, was not designed to accommodate the varying needs of multiple distinct products. This created a challenge: How could we maintain consistency across all products while respecting each one’s unique brand identity?
-
 ### Problem: Multiple Products, One System
 
-With the addition of new products, the design system needed to cater to a more diverse set of needs. How could we design a system that offered guidance, components, and design resources for multiple products without overwhelming users with unnecessary complexity? The system had been created for a single product, and expanding it required rethinking how we could serve multiple brands under one umbrella without sacrificing usability or consistency.
+ The current design system had been created for a single product and we now needed to update the design system to support more products. Expanding it required rethinking how we could serve multiple brands under one umbrella. The new design system would have to allow unique guidance, components, and design resources for multiple products without overwhelming users with unnecessary complexity.
 
 ## The Solution: A Theming Approach to Product Diversity
 
 To solve this challenge, we implemented a theming solution. Theming allows the design system to be flexible and adaptable, providing a seamless experience for users across different products. Here’s how it works:
 
-- **Product-Specific Views**: Users can toggle between different products within the system, switching the theme to match the selected product. For example, if a designer needs to work on a component for Product A, they can select Product A from a dropdown menu, and the design system will adjust to reflect Product A’s visual style and guidelines.
+- **Product-Specific Views**: Users can toggle between different products within the system, switching the theme to match the selected product. Components for that brand could be seen when selected. Selecting the see all option would show all components from every product.
   
 - **Consistent Experience Across Products**: While each product has its own unique branding and design elements, the underlying structure of the design system remains consistent. This means that whether a designer is working on Product A or Product B, they are using the same core system components, ensuring a cohesive experience across all products.
 
+- **Token structure** Having a token library helps create a single source of truth for colors and styles. Having consistent naming for each product ensure the token switching remains consistent. 
+
 This theming solution allowed us to maintain a unified design system that could serve multiple products while respecting each product's individual branding requirements.
+
+ {{< codepen user="babsdenney" id="EaVmzgd" height="600" >}}
 
 ## Key Benefits of the Theming Solution
 

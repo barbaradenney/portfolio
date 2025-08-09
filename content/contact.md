@@ -4,15 +4,11 @@ date: 2025-07-30T23:45:43-06:00
 draft: false
 ---
 
-# Get In Touch
-
-I'd love to hear from you! Whether you have a project in mind, want to collaborate, or just want to say hello.
-
 ## Contact Information
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/)
-- **GitHub**: [github.com/your-username](https://github.com/)
+- **Email**: [hi@barbaradenney.com](mailto:hi@barbaradenney.com)
+- **LinkedIn**: [https://www.linkedin.com/in/barbara-denney/](https://www.linkedin.com/in/barbara-denney/)
+- **GitHub**: [https://github.com/babsdenney](https://github.com/babsdenney)
 
 ## Let's Connect
 

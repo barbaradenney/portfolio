@@ -1,0 +1,3 @@
+<iframe height="{{ .Get "height" | default "300" }}" style="width: 100%;" scrolling="no" title="{{ .Get "title" | default "CodePen Embed" }}" src="https://codepen.io/{{ .Get "user" }}/embed/{{ .Get "id" }}?default-tab={{ .Get "tab" | default "result" }}&theme-id={{ .Get "theme" | default "dark" }}" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/{{ .Get "user" }}/pen/{{ .Get "id" }}">{{ .Get "title" | default "CodePen Demo" }}</a> by {{ .Get "user" }} on <a href="https://codepen.io">CodePen</a>.
+</iframe>

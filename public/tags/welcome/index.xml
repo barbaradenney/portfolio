@@ -9,35 +9,10 @@
     <lastBuildDate>Wed, 30 Jul 2025 23:45:49 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Creating a brands within a design system</title>
-      <link>http://localhost:1313/posts/themableds/</link>
-      <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
-      <guid>http://localhost:1313/posts/themableds/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;CMS Design System&lt;/strong&gt;&lt;/p&gt;
-&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
-&lt;p&gt;Once the Medicare design system was established, Ad Hoc was able to expand the current CMS Design System contract and &lt;/p&gt;
-&lt;p&gt;After the Medicare design system, Medicare decided to commit more time and money to the design system and expanded their contract to allow a Designer to work on the Medicare Design System full-time. I was already working on the design system part-time and was able to transfer over to the design system team and work on the design system full-time.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Establishing a new Design System</title>
-      <link>http://localhost:1313/posts/newds/</link>
-      <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
-      <guid>http://localhost:1313/posts/newds/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Medicare Design System&lt;/strong&gt;&lt;/p&gt;
-&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
-&lt;p&gt;Government contracting, in general, can pose many unique challenges regarding communication and alignment when building a product.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Communication silos.&lt;/strong&gt; Due to multiple contractors working on the same website, communication silos are inevitable. Contracting teams are not incentivized to share information due to the focus on contract rebids.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Onboarding overhead.&lt;/strong&gt; Many contracts are set up to be rebid every few years. Sometimes the contractor wins the rebid, but sometimes a new contractor wins. This causes whole parts of the product to change hands. Everyone from managers to engineers leaves the product, and another team moves in.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Welcome to My Portfolio!</title>
-      <link>http://localhost:1313/posts/welcome/</link>
+      <link>http://localhost:1313/posts/portfolio-introduction-design-systems-specialist-barb-denney/</link>
       <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
-      <guid>http://localhost:1313/posts/welcome/</guid>
+      <guid>http://localhost:1313/posts/portfolio-introduction-design-systems-specialist-barb-denney/</guid>
       <description>&lt;h1 id=&#34;welcome-to-my-portfolio&#34;&gt;Welcome to My Portfolio!&lt;/h1&gt;
 &lt;p&gt;Hello!&lt;/p&gt;
 &lt;p&gt;My name is Barb Denney, I&amp;rsquo;m a Designer that specializes in Design Systems. I have 5 years of experienced in creating scalable, compliant Design Systems for Medicare.gov, CMS.gov, and VA.gov. I work in Figma and code. I started my career as a Web Designer almost 20 years ago, moved into UX, and now am starting era of my career exploring AI and Design Systems.&lt;/p&gt;
