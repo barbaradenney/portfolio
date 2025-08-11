@@ -2,8 +2,8 @@
 body.list  {
     min-height: 100vh;
     position: relative;
-    background-size: 60%;
-    background-position: 100% 0;
+    background-size: 35%;
+    background-position: 90% 7%;
     background-repeat: no-repeat;
 }
 
@@ -28,16 +28,32 @@ body.list:not([data-theme="dark"]) {
     }
 }
 
-/* Improve text readability over hero image */
-/* body.list .home-info {
+/* Two-column layout styles - only for home-info section */
+body.list .main {
+    position: relative;
+    min-height: calc(100vh - var(--header-height) - var(--footer-height));
+    max-width: calc(var(--main-width) + var(--gap) * 2);
+    margin: auto;
+    padding: var(--gap);
+}
+
+body.list .home-info {
+    display: grid;
+    grid-template-columns: 1fr 45%;
+    /* gap: 2rem;
     background: rgba(var(--theme), 0.85);
     backdrop-filter: blur(10px);
     border-radius: 12px;
     padding: 2rem;
-    margin: 2rem auto;
-    max-width: 600px;
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-} */
+    margin-bottom: 2rem;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1); */
+}
+
+body.list .home-info .entry-header,
+body.list .home-info .entry-content,
+body.list .home-info .entry-footer {
+    grid-column: 1;
+}
 
 /* Custom styling for social icons with text labels */
 .social-icon-link {
@@ -70,6 +86,22 @@ body.list:not([data-theme="dark"]) {
 
 /* Responsive behavior */
 @media (max-width: 768px) {
+    /* Switch to single column on mobile */
+    body.list {
+        background-size: 47%;
+        background-position: 50% 3%;
+    }
+    
+    body.list .main {
+        padding: 1rem;
+    }
+    
+    body.list .home-info {
+        display: block;
+        margin: 8rem 0 1rem 0;
+        padding: 1.5rem;
+    }
+    
     .social-icon-link {
         margin-right: 12px;
         margin-bottom: 8px;
@@ -78,9 +110,16 @@ body.list:not([data-theme="dark"]) {
     .social-icon-text {
         font-size: 13px;
     }
+}
+
+@media (max-width: 480px) {
+    body.list {
+        background-size: 100%;
+        /* padding-top: 150px; */
+    }
     
-    .home .home-info {
-        margin: 1rem;
-        padding: 1.5rem;
+    body.list .home-info {
+        padding: 1rem;
+        margin: 0.5rem 0;
     }
 }
