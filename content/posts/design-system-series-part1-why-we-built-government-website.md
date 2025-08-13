@@ -6,9 +6,6 @@ tags: ["#Design Systems", "Government Tech"]
 categories: ["blog"]
 ---
 
-## Design System Series Navigation
-
-📚 **Complete Series:**
 - **Part 1: Why We Built It** *(You are here)*
 - [Part 2: Gaining Stakeholder Buy-In](../design-system-series-part2-gaining-stakeholder-buy-in-government/)
 - [Part 3: Breaking Down Silos Through Communication](../design-system-series-part3-breaking-silos-team-communication/)
