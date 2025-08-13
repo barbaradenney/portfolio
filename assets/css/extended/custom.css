@@ -1,47 +1,47 @@
 /* Typography - Increase body font size */
 body {
-    font-size: 24px !important;
+    font-size: 24px;
 }
 
 /* Typography - Increase entry-content font size and make darker */
 .entry-content {
-    font-size: 24px !important;
-    color: var(--primary) !important;
+    font-size: 24px;
+    color: var(--primary);
 }
 
 /* Header font size increases - add 8px to each heading */
-h1, .entry-header h1 {
-    font-size: 48px !important; /* Default ~40px + 8px */
+h1, .entry-header h1, .post-content h1 {
+    font-size: 48px; /* Default ~40px + 8px */
 }
 
-h2, .entry-header h2 {
-    font-size: 40px !important; /* Default ~32px + 8px */
+h2, .entry-header h2, .post-content h2 {
+    font-size: 40px; /* Default ~32px + 8px */
 }
 
-h3 {
-    font-size: 32px !important; /* Default ~24px + 8px */
+h3, .post-content h3 {
+    font-size: 32px; /* Default ~24px + 8px */
 }
 
-h4 {
-    font-size: 24px !important; /* Default ~16px + 8px */
+h4, .post-content h4 {
+    font-size: 24px; /* Default ~16px + 8px */
 }
 
-h5 {
-    font-size: 22px !important; /* Default ~14px + 8px */
+h5, .post-content h5 {
+    font-size: 22px; /* Default ~14px + 8px */
 }
 
-h6 {
-    font-size: 20px !important; /* Default ~12px + 8px */
+h6, .post-content h6 {
+    font-size: 20px; /* Default ~12px + 8px */
 }
 
 /* Navigation - Bold main menu links */
 #menu a {
-    font-weight: bold !important;
+    font-weight: bold;
 }
 
 /* Navigation - Extra bold for active menu links */
 #menu .active {
-    font-weight: 800 !important;
+    font-weight: 800;
 }
 
 /* Hero Static Image - Theme Switching for Homepage */
@@ -90,7 +90,7 @@ body.list .home-info .entry-footer {
 
 /* Custom styling for social icons with text labels */
 .social-icon-link {
-    display: inline-flex !important;
+    display: inline-flex;
     align-items: center;
     gap: 8px;
     margin-right: 16px;
