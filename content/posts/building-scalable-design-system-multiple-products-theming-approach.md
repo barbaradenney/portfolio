@@ -8,7 +8,7 @@ categories: ["blog"]
 
 ### Problem: Multiple Products, One System
 
- The current design system had been created for a single product and we now needed to update the design system to support more products. Expanding it required rethinking how we could serve multiple brands under one umbrella. The new design system would have to allow unique guidance, components, and design resources for multiple products without overwhelming users with unnecessary complexity.
+ The current design system I was working on had been created for a single product and we now needed to update the design system to support more products. Expanding it required rethinking how we could serve multiple brands under one umbrella. The new design system would have to allow unique guidance, components, and design resources for multiple products without overwhelming users with unnecessary complexity.
 
 ## The Solution: A Theming Approach to Product Diversity
 
@@ -21,6 +21,10 @@ To solve this challenge, we implemented a theming solution. Theming allows the d
 - **Token structure** Having a token library helps create a single source of truth for colors and styles. Having consistent naming for each product ensure the token switching remains consistent. 
 
 This theming solution allowed us to maintain a unified design system that could serve multiple products while respecting each product's individual branding requirements.
+
+---
+
+Note: Below is an example of the solution we implemented where the theme of the component can be changed depending on the option selected. This example was generated using Claude and added to CodePen.
 
  {{< codepen user="babsdenney" id="EaVmzgd" height="600" >}}
 
