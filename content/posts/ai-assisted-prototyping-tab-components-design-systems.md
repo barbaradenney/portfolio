@@ -1,5 +1,5 @@
 ---
-title: "Using AI to Prototype Tab Components"
+title: "Creating Tab prototypes using AI"
 date: 2025-07-30T23:45:49-06:00
 draft: false
 tags: ["#Design Systems", "Design Ops", "Prototyping", "Interaction design"]
@@ -17,14 +17,11 @@ Some of the key issues you need to solve when creating tabs:
 
 ## Exploring Overflow Solutions
 
-We considered three possible patterns:
-1. **Stacked Tabs** – overflow creates a second row.
-2. **Horizontal Scroll** – tabs slide side-to-side.
-3. **Dropdown Menu** – excess tabs move into a select-style list.
-
-Each option had trade-offs depending on content density, accessibility, and implementation constraints.
+We considered three possible options for the tab overflow design. Each option had trade-offs depending on content density, accessibility, and implementation constraints.
 
 ### Option 1: Stacked Tabs
+
+Tabs overflow to a second row when there isn't enough room on screen.
 
 ![Stacked tabs prototype showing tabs wrapping to a second row when they overflow the container width](/posts/ai-assisted-prototyping-tab-components-design-systems/stacked-tabs.png)
 
@@ -46,6 +43,8 @@ Each option had trade-offs depending on content density, accessibility, and impl
 
 ### Option 2: Tabs with a Dropdown Menu
 
+Tabs that don't fit on screen move into a dropdown style menu.
+
 ![Tabs with dropdown menu prototype showing visible tabs and a dropdown for overflow tabs](/posts/ai-assisted-prototyping-tab-components-design-systems/tabs-with-dropdown.png)
 
 #### Pros
@@ -65,6 +64,8 @@ Each option had trade-offs depending on content density, accessibility, and impl
 - Users lose spatial memory
 
 ### Option 3: Tabs with Horizontal Scrolling
+
+Tabs slide side-to-side using a horizontal scrollbar.
 
 ![Tabs with horizontal scrolling prototype showing tabs that can be scrolled horizontally when they overflow](/posts/ai-assisted-prototyping-tab-components-design-systems/tabs-with-horizontal-overflow.png)
 

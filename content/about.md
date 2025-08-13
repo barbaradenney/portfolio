@@ -5,10 +5,26 @@ draft: false
 ShowReadingTime: false
 ---
 
+{{< rawhtml >}}
+<div style="display: grid; grid-template-columns: 1fr 2fr; gap: 2rem; align-items: start; margin-bottom: 2rem;">
+  <div>
+{{< /rawhtml >}}
 
-I started my career as a Web Designer 20 years ago making computer based training modules in Flash, moved into UX converting desktop applications to cloud-based ones, and currently help support design systems. Now, the next new shift in technology has begun and we are now all trying to figure out how AI will transform the web as we use it today. 
+![Barbara Denney](/Barbara-Denney.JPG)
 
-I currently reside in Colorado Springs, Colorado and enjoy doodling and running.
+{{< rawhtml >}}
+  </div>
+  <div>
+{{< /rawhtml >}}
+
+For the past five years, I have had the privilege of working on design systems and I truly enjoy the craft. From helping to establish new systems to maintaining and evolving mature ones, there is always something fresh and intriguing to explore. Lately, I have been diving into the world of AI, discovering how it can enhance efficiency, improve consistency, and open new creative possibilities.
+
+I live in Colorado Springs, Colorado and enjoy illustrating and running.
+
+{{< rawhtml >}}
+  </div>
+</div>
+{{< /rawhtml >}}
 
 ## My Projects
 

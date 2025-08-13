@@ -19,6 +19,22 @@
 &lt;p&gt;To solve this challenge, we implemented a theming solution. Theming allows the design system to be flexible and adaptable, providing a seamless experience for users across different products. Here’s how it works:&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Creating Tab prototypes using AI</title>
+      <link>http://localhost:1313/posts/ai-assisted-prototyping-tab-components-design-systems/</link>
+      <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
+      <guid>http://localhost:1313/posts/ai-assisted-prototyping-tab-components-design-systems/</guid>
+      <description>&lt;h2 id=&#34;the-challenge-of-tabs&#34;&gt;The Challenge of Tabs&lt;/h2&gt;
+&lt;p&gt;Tabs can be deceptively simple, but under the surface they come with complex usability and accessibility considerations.&lt;/p&gt;
+&lt;p&gt;Some of the key issues you need to solve when creating tabs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What happens when tabs exceed the width of the screen?&lt;/li&gt;
+&lt;li&gt;Should tabs work as in-page navigation or update the URL?&lt;/li&gt;
+&lt;li&gt;How do we support users at 400% zoom or on screens narrower than 320px?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;exploring-overflow-solutions&#34;&gt;Exploring Overflow Solutions&lt;/h2&gt;
+&lt;p&gt;We considered three possible options for the tab overflow design. Each option had trade-offs depending on content density, accessibility, and implementation constraints.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Design System Series: Part 1 – Why We Built It</title>
       <link>http://localhost:1313/posts/design-system-series-part1-why-we-built-government-website/</link>
       <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
@@ -114,22 +130,6 @@
 &lt;p&gt;But with more experience under my belt, I&amp;rsquo;ve come to understand that &lt;strong&gt;operational processes&lt;/strong&gt; are the invisible foundation that determines whether a design system thrives or slowly deteriorates. These can be considered Design System operations.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Using AI to Prototype Tab Components</title>
-      <link>http://localhost:1313/posts/ai-assisted-prototyping-tab-components-design-systems/</link>
-      <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
-      <guid>http://localhost:1313/posts/ai-assisted-prototyping-tab-components-design-systems/</guid>
-      <description>&lt;h2 id=&#34;the-challenge-of-tabs&#34;&gt;The Challenge of Tabs&lt;/h2&gt;
-&lt;p&gt;Tabs can be deceptively simple, but under the surface they come with complex usability and accessibility considerations.&lt;/p&gt;
-&lt;p&gt;Some of the key issues you need to solve when creating tabs:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;What happens when tabs exceed the width of the screen?&lt;/li&gt;
-&lt;li&gt;Should tabs work as in-page navigation or update the URL?&lt;/li&gt;
-&lt;li&gt;How do we support users at 400% zoom or on screens narrower than 320px?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;exploring-overflow-solutions&#34;&gt;Exploring Overflow Solutions&lt;/h2&gt;
-&lt;p&gt;We considered three possible patterns:&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Contact Me</title>
       <link>http://localhost:1313/contact/</link>
       <pubDate>Wed, 30 Jul 2025 23:45:43 -0600</pubDate>
@@ -177,8 +177,19 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 30 Jul 2025 23:45:25 -0600</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;I started my career as a Web Designer 20 years ago making computer based training modules in Flash, moved into UX converting desktop applications to cloud-based ones, and currently help support design systems. Now, the next new shift in technology has begun and we are now all trying to figure out how AI will transform the web as we use it today.&lt;/p&gt;
-&lt;p&gt;I currently reside in Colorado Springs, Colorado and enjoy doodling and running.&lt;/p&gt;</description>
+      <description>&lt;div style=&#34;display: grid; grid-template-columns: 1fr 2fr; gap: 2rem; align-items: start; margin-bottom: 2rem;&#34;&gt;
+  &lt;div&gt;
+
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/Barbara-Denney.JPG&#34;
+         alt=&#34;Barbara Denney&#34;/&gt; 
+&lt;/figure&gt;
+
+
+  &lt;/div&gt;
+  &lt;div&gt;
+
+&lt;p&gt;For the past five years, I have had the privilege of working on design systems and I truly enjoy the craft. From helping to establish new systems to maintaining and evolving mature ones, there is always something fresh and intriguing to explore. Lately, I have been diving into the world of AI, discovering how it can enhance efficiency, improve consistency, and open new creative possibilities.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

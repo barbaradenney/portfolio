@@ -14,7 +14,7 @@
       <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
       <guid>http://localhost:1313/posts/building-scalable-design-system-multiple-products-theming-approach/</guid>
       <description>&lt;h3 id=&#34;problem-multiple-products-one-system&#34;&gt;Problem: Multiple Products, One System&lt;/h3&gt;
-&lt;p&gt;The current design system had been created for a single product and we now needed to update the design system to support more products. Expanding it required rethinking how we could serve multiple brands under one umbrella. The new design system would have to allow unique guidance, components, and design resources for multiple products without overwhelming users with unnecessary complexity.&lt;/p&gt;
+&lt;p&gt;The current design system I was working on had been created for a single product and we now needed to update the design system to support more products. Expanding it required rethinking how we could serve multiple brands under one umbrella. The new design system would have to allow unique guidance, components, and design resources for multiple products without overwhelming users with unnecessary complexity.&lt;/p&gt;
 &lt;h2 id=&#34;the-solution-a-theming-approach-to-product-diversity&#34;&gt;The Solution: A Theming Approach to Product Diversity&lt;/h2&gt;
 &lt;p&gt;To solve this challenge, we implemented a theming solution. Theming allows the design system to be flexible and adaptable, providing a seamless experience for users across different products. Here’s how it works:&lt;/p&gt;</description>
     </item>
@@ -23,9 +23,7 @@
       <link>http://localhost:1313/posts/design-system-series-part2-gaining-stakeholder-buy-in-government/</link>
       <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
       <guid>http://localhost:1313/posts/design-system-series-part2-gaining-stakeholder-buy-in-government/</guid>
-      <description>&lt;h2 id=&#34;design-system-series-navigation&#34;&gt;Design System Series Navigation&lt;/h2&gt;
-&lt;p&gt;📚 &lt;strong&gt;Complete Series:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
+      <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;../design-system-series-part1-why-we-built-government-website/&#34;&gt;Part 1: Why We Built It&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Part 2: Gaining Stakeholder Buy-In&lt;/strong&gt; &lt;em&gt;(You are here)&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../design-system-series-part3-breaking-silos-team-communication/&#34;&gt;Part 3: Breaking Down Silos Through Communication&lt;/a&gt;&lt;/li&gt;
@@ -40,9 +38,7 @@
       <link>http://localhost:1313/posts/design-system-series-part3-breaking-silos-team-communication/</link>
       <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
       <guid>http://localhost:1313/posts/design-system-series-part3-breaking-silos-team-communication/</guid>
-      <description>&lt;h2 id=&#34;design-system-series-navigation&#34;&gt;Design System Series Navigation&lt;/h2&gt;
-&lt;p&gt;📚 &lt;strong&gt;Complete Series:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
+      <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;../design-system-series-part1-why-we-built-government-website/&#34;&gt;Part 1: Why We Built It&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../design-system-series-part2-gaining-stakeholder-buy-in-government/&#34;&gt;Part 2: Gaining Stakeholder Buy-In&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Part 3: Breaking Down Silos Through Communication&lt;/strong&gt; &lt;em&gt;(You are here)&lt;/em&gt;&lt;/li&gt;
@@ -57,9 +53,7 @@
       <link>http://localhost:1313/posts/design-system-series-part4-driving-team-adoption-strategies/</link>
       <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
       <guid>http://localhost:1313/posts/design-system-series-part4-driving-team-adoption-strategies/</guid>
-      <description>&lt;h2 id=&#34;design-system-series-navigation&#34;&gt;Design System Series Navigation&lt;/h2&gt;
-&lt;p&gt;📚 &lt;strong&gt;Complete Series:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
+      <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;../design-system-series-part1-why-we-built-government-website/&#34;&gt;Part 1: Why We Built It&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../design-system-series-part2-gaining-stakeholder-buy-in-government/&#34;&gt;Part 2: Gaining Stakeholder Buy-In&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../design-system-series-part3-breaking-silos-team-communication/&#34;&gt;Part 3: Breaking Down Silos Through Communication&lt;/a&gt;&lt;/li&gt;
@@ -74,9 +68,7 @@
       <link>http://localhost:1313/posts/design-system-series-part5-lessons-learned-starting-design-system/</link>
       <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
       <guid>http://localhost:1313/posts/design-system-series-part5-lessons-learned-starting-design-system/</guid>
-      <description>&lt;h2 id=&#34;design-system-series-navigation&#34;&gt;Design System Series Navigation&lt;/h2&gt;
-&lt;p&gt;📚 &lt;strong&gt;Complete Series:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
+      <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;../design-system-series-part1-why-we-built-government-website/&#34;&gt;Part 1: Why We Built It&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../design-system-series-part2-gaining-stakeholder-buy-in-government/&#34;&gt;Part 2: Gaining Stakeholder Buy-In&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../design-system-series-part3-breaking-silos-team-communication/&#34;&gt;Part 3: Breaking Down Silos Through Communication&lt;/a&gt;&lt;/li&gt;

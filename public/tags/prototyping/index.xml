@@ -9,20 +9,20 @@
     <lastBuildDate>Wed, 30 Jul 2025 23:45:49 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/prototyping/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Using AI to Prototype Tab Components</title>
+      <title>Creating Tab prototypes using AI</title>
       <link>http://localhost:1313/posts/ai-assisted-prototyping-tab-components-design-systems/</link>
       <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
       <guid>http://localhost:1313/posts/ai-assisted-prototyping-tab-components-design-systems/</guid>
       <description>&lt;h2 id=&#34;the-challenge-of-tabs&#34;&gt;The Challenge of Tabs&lt;/h2&gt;
 &lt;p&gt;Tabs can be deceptively simple, but under the surface they come with complex usability and accessibility considerations.&lt;/p&gt;
-&lt;p&gt;Some of the issues you have to solve for when creating tabs:&lt;/p&gt;
+&lt;p&gt;Some of the key issues you need to solve when creating tabs:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;What happens when tabs exceed the width of the screen?&lt;/li&gt;
 &lt;li&gt;Should tabs work as in-page navigation or update the URL?&lt;/li&gt;
 &lt;li&gt;How do we support users at 400% zoom or on screens narrower than 320px?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;exploring-overflow-solutions&#34;&gt;Exploring Overflow Solutions&lt;/h2&gt;
-&lt;p&gt;We considered three possible patterns:&lt;/p&gt;</description>
+&lt;p&gt;We considered three possible options for the tab overflow design. Each option had trade-offs depending on content density, accessibility, and implementation constraints.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
