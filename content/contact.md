@@ -9,7 +9,6 @@ ShowReadingTime: false
 
 - **Email**: [hi@barbaradenney.com](mailto:hi@barbaradenney.com)
 - **LinkedIn**: [https://www.linkedin.com/in/barbara-denney/](https://www.linkedin.com/in/barbara-denney/)
-- **GitHub**: [https://github.com/babsdenney](https://github.com/babsdenney)
 
 ## Let's Connect
 
