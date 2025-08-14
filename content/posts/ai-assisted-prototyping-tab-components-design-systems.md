@@ -89,7 +89,7 @@ Tabs slide side-to-side using a horizontal scrollbar.
 
 Working through these different complexities in flat files and mockups would be challenging. Rather than mock up each version in Figma, I turned to ChatGPT to prototype them directly in code. I described the desired behavior, required it to use the USWDS as a framework, and it returned HTML, CSS, and JavaScript that I pasted into CodePen.
 
-It wasn't entirely hands-free—there were major adjustments needed to update styles and refine the code. However, the AI-generated base saved hours of work. The end result was:
+It wasn't entirely hands-free. There were major adjustments needed to update styles and refine the code. However, the AI-generated base saved hours of work. The end result was:
 - A working prototype I could test at different screen sizes
 - Real code I could hand off to developers
 - A shareable demo for async feedback from the team
@@ -112,7 +112,7 @@ Here are the final demos I created:
 
 Some components are better tested in code than in static mockups. Tabs are one of them. This process made the handoff smoother and the design decisions clearer.
 
-Many refinements—like adding design system tokens and understanding what line colors and focus states look like—were added by hand, but I really valued having support with the complicated JavaScript coding that was necessary. Is this production ready? Far from it, but it creates a better experience for everyone involved than mockups and design specifications alone. 
+Many refinements, like adding design system tokens and understanding what line colors and focus states look like, were added by hand, but I really valued having support with the complicated JavaScript coding that was necessary. Is this production ready? Far from it, but it creates a better experience for everyone involved than mockups and design specifications alone. 
 
 ---
 
