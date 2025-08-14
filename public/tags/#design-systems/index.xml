@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>#Design Systems on Barbara Denney</title>
-    <link>http://localhost:1313/tags/%23design-systems/</link>
+    <link>https://barbaradenney.github.io/tags/%23design-systems/</link>
     <description>Recent content in #Design Systems on Barbara Denney</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Jul 2025 23:45:49 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%23design-systems/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://barbaradenney.github.io/tags/%23design-systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design System Series: Part 1 – Why We Built It</title>
-      <link>http://localhost:1313/posts/design-system-series-part1-why-we-built-government-website/</link>
+      <link>https://barbaradenney.github.io/posts/design-system-series-part1-why-we-built-government-website/</link>
       <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
-      <guid>http://localhost:1313/posts/design-system-series-part1-why-we-built-government-website/</guid>
+      <guid>https://barbaradenney.github.io/posts/design-system-series-part1-why-we-built-government-website/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Part 1: Why We Built It&lt;/strong&gt; &lt;em&gt;(You are here)&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../design-system-series-part2-gaining-stakeholder-buy-in-government/&#34;&gt;Part 2: Gaining Stakeholder Buy-In&lt;/a&gt;&lt;/li&gt;
@@ -27,18 +27,18 @@
     </item>
     <item>
       <title>Experimenting with Annotation Mode in Figma</title>
-      <link>http://localhost:1313/posts/figma-annotation-mode-experiment-design-systems-workflow/</link>
+      <link>https://barbaradenney.github.io/posts/figma-annotation-mode-experiment-design-systems-workflow/</link>
       <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
-      <guid>http://localhost:1313/posts/figma-annotation-mode-experiment-design-systems-workflow/</guid>
+      <guid>https://barbaradenney.github.io/posts/figma-annotation-mode-experiment-design-systems-workflow/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Our design team recently began exploring a new way to annotate designs directly in Figma. While searching for examples of this technique online, we came up short—which made us wonder if other teams were thinking about this the same way we were.&lt;/p&gt;
 &lt;p&gt;Figma already supports switching between properties using &lt;strong&gt;modes&lt;/strong&gt; which is great for themes like light/dark mode or responsive layouts. We started thinking, could we use modes to annotate?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reflection on Early Lessons</title>
-      <link>http://localhost:1313/posts/design-system-operational-processes-sustainability-reflection/</link>
+      <link>https://barbaradenney.github.io/posts/design-system-operational-processes-sustainability-reflection/</link>
       <pubDate>Wed, 30 Jul 2025 23:45:49 -0600</pubDate>
-      <guid>http://localhost:1313/posts/design-system-operational-processes-sustainability-reflection/</guid>
+      <guid>https://barbaradenney.github.io/posts/design-system-operational-processes-sustainability-reflection/</guid>
       <description>&lt;h2 id=&#34;looking-back-on-hard-won-lessons&#34;&gt;Looking Back on Hard-Won Lessons&lt;/h2&gt;
 &lt;p&gt;A few years ago, I wrote a &lt;a href=&#34;https://adhoc.team/2022/07/18/using-design-systems-digital-success-federal-space/&#34;&gt;blog post&lt;/a&gt; reflecting on the early lessons from establishing a new design system. The big ideas I shared that focused on creating alignment, scaling consistency, building shared patterns—remain as relevant as ever.&lt;/p&gt;
 &lt;p&gt;But with more experience under my belt, I&amp;rsquo;ve come to understand that &lt;strong&gt;operational processes&lt;/strong&gt; are the invisible foundation that determines whether a design system thrives or slowly deteriorates. These can be considered Design System operations.&lt;/p&gt;</description>
