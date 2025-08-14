@@ -3,6 +3,7 @@ title: "Contact Me"
 date: 2025-07-30T23:45:43-06:00
 draft: false
 ShowReadingTime: false
+hidemeta: true
 ---
 
 {{< rawhtml >}}
