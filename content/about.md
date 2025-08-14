@@ -18,7 +18,7 @@ ShowDate: false
   <div>
 {{< /rawhtml >}}
 
-For the past five years, I have had the privilege of working on design systems and I truly enjoy the craft. From helping to establish new systems to maintaining and evolving mature ones, there is always something new to explore. Lately, I have been diving into the world of AI, discovering how it can enhance efficiency, improve consistency, and open new creative possibilities.
+I have 15+ years of of UX design and front-end development experience. For the past five years, I have had the privilege of working on design systems and I truly enjoy the craft. From helping to establish new systems to maintaining and evolving mature ones, there is always something new to explore. Lately, I have been diving into the world of AI, discovering how it can enhance efficiency, improve consistency, and open new creative possibilities.
 
 I live in Colorado Springs, Colorado and enjoy illustrating and running.
 
@@ -88,6 +88,15 @@ _Western Governors University_
 
 **Associate of Science (A.S.) – Web Design & Digital Media**
 _Baker College_
+
+## Professional experience
+
+* Staff UX Designer – VA Design System – Department of Veteran Affairs – 2022-Present
+* Senior Designer – CMS Design System – Centers for Medicare & Medicaid Services – 2021-2022
+* UX Designer – Medicare.gov – Centers for Medicare & Medicaid Services – 2018-2021
+* Freelance UX Designer - Self-Employed - 2016-2018
+* Web Designer - Centers for Disease Control and Prevention (CDC) - 2015-2016
+* UX Designer - Innoppl - 2014-2015
 
 ---
 
