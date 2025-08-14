@@ -41,7 +41,7 @@ theme = 'PaperMod'
 
   [[params.socialIcons]]
     name = "cv"
-    url = "/resume.pdf"
+    url = "/Barbara-Denney-resume.pdf"
     title = "Resume"
 
 [markup]

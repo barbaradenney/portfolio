@@ -5,8 +5,12 @@ body {
 
 /* Typography - Increase entry-content font size and make darker */
 .entry-content {
-    font-size: 24px;
-    color: var(--primary);
+    font-size: 24px !important;
+    color: var(--primary) !important;
+}
+
+.paginav .prev, .paginav .next {
+    padding: 16px;
 }
 
 /* Header font size increases - add 8px to each heading */

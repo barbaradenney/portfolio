@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>Creating Tab prototypes using AI | Barbara Denney</title>
-<meta name="keywords" content="#Design Systems, Design Ops, Prototyping, Interaction design">
+<meta name="keywords" content="Design Systems, Design Ops, Prototyping, Interaction design">
 <meta name="description" content="The Challenge of Tabs
 Tabs can be deceptively simple, but under the surface they come with complex usability and accessibility considerations.
 Some of the key issues you need to solve when creating tabs:
@@ -19,7 +19,7 @@ Exploring Overflow Solutions
 We considered three possible options for the tab overflow design. Each option had trade-offs depending on content density, accessibility, and implementation constraints.">
 <meta name="author" content="">
 <link rel="canonical" href="http://localhost:1313/posts/ai-assisted-prototyping-tab-components-design-systems/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.9862a67f0247f95dccb5eea31819c4cd15518accbdc649e93c0b79a26601efbb.css" integrity="sha256-mGKmfwJH&#43;V3Mte6jGBnEzRVRisy9xknpPAt5omYB77s=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.e10f56b3f9839c75c457ee1adf04726ce741060d24ed44f7204520d3db4380b8.css" integrity="sha256-4Q9Ws/mDnHXEV&#43;4a3wRybOdBBg0k7UT3IEUg09tDgLg=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
@@ -75,7 +75,7 @@ What happens when tabs exceed the width of the screen? Should tabs work as in-pa
     <meta property="article:section" content="posts">
     <meta property="article:published_time" content="2025-07-30T23:45:49-06:00">
     <meta property="article:modified_time" content="2025-07-30T23:45:49-06:00">
-    <meta property="article:tag" content="#Design Systems">
+    <meta property="article:tag" content="Design Systems">
     <meta property="article:tag" content="Design Ops">
     <meta property="article:tag" content="Prototyping">
     <meta property="article:tag" content="Interaction Design">
@@ -121,7 +121,7 @@ We considered three possible options for the tab overflow design. Each option ha
   "name": "Creating Tab prototypes using AI",
   "description": "The Challenge of Tabs Tabs can be deceptively simple, but under the surface they come with complex usability and accessibility considerations.\nSome of the key issues you need to solve when creating tabs:\nWhat happens when tabs exceed the width of the screen? Should tabs work as in-page navigation or update the URL? How do we support users at 400% zoom or on screens narrower than 320px? Exploring Overflow Solutions We considered three possible options for the tab overflow design. Each option had trade-offs depending on content density, accessibility, and implementation constraints.\n",
   "keywords": [
-    "#Design Systems", "Design Ops", "Prototyping", "Interaction design"
+    "Design Systems", "Design Ops", "Prototyping", "Interaction design"
   ],
   "articleBody": "The Challenge of Tabs Tabs can be deceptively simple, but under the surface they come with complex usability and accessibility considerations.\nSome of the key issues you need to solve when creating tabs:\nWhat happens when tabs exceed the width of the screen? Should tabs work as in-page navigation or update the URL? How do we support users at 400% zoom or on screens narrower than 320px? Exploring Overflow Solutions We considered three possible options for the tab overflow design. Each option had trade-offs depending on content density, accessibility, and implementation constraints.\nOption 1: Stacked Tabs Tabs overflow to a second row when there isn’t enough room on screen.\nPros All tabs remain fully visible No learning curve required Excellent accessibility support Simple CSS implementation Mobile-responsive by nature Cons Consumes significant vertical space Can cause layout shifts Looks messy with many tabs Breaks traditional tab metaphor Limited scalability Option 2: Tabs with a Dropdown Menu Tabs that don’t fit on screen move into a dropdown style menu.\nPros Most space-efficient option Clear content hierarchy Familiar UI pattern Prevents overwhelming users Clean, minimal appearance Cons Hidden functionality requires discovery Two-step interaction required Tab prioritization challenges Responsive complexity Users lose spatial memory Option 3: Tabs with Horizontal Scrolling Tabs slide side-to-side using a horizontal scrollbar.\nPros Maintains single-line layout Scales to unlimited tabs Familiar scrolling interaction Preserves tab metaphor No content layout shifts Cons Hidden tabs not immediately visible Requires scroll indicators that can be inconsistent Additional interaction needed Mobile touch conflicts Navigation friction Enter AI-Assisted Prototyping Working through these different complexities in flat files and mockups would be challenging. Rather than mock up each version in Figma, I turned to ChatGPT to prototype them directly in code. I described the desired behavior, required it to use the USWDS as a framework, and it returned HTML, CSS, and JavaScript that I pasted into CodePen.\nIt wasn’t entirely hands-free—there were major adjustments needed to update styles and refine the code. However, the AI-generated base saved hours of work. The end result was:\nA working prototype I could test at different screen sizes Real code I could hand off to developers A shareable demo for async feedback from the team Here are the final demos I created:\nStacked Tabs See the Pen CodePen Demo by babsdenney on CodePen. Tabs with a Dropdown Menu See the Pen CodePen Demo by babsdenney on CodePen. Tabs with Horizontal Scrolling See the Pen CodePen Demo by babsdenney on CodePen. Final Thoughts Some components are better tested in code than in static mockups. Tabs are one of them. This process made the handoff smoother and the design decisions clearer.\nMany refinements—like adding design system tokens and understanding what line colors and focus states look like—were added by hand, but I really valued having support with the complicated JavaScript coding that was necessary. Is this production ready? Far from it, but it creates a better experience for everyone involved than mockups and design specifications alone.\nNote: This article was co-written with the help of AI to improve clarity and structure.\n",
   "wordCount" : "510",
@@ -313,7 +313,7 @@ We considered three possible options for the tab overflow design. Each option ha
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="http://localhost:1313/tags/%23design-systems/">#Design Systems</a></li>
+      <li><a href="http://localhost:1313/tags/design-systems/">Design Systems</a></li>
       <li><a href="http://localhost:1313/tags/design-ops/">Design Ops</a></li>
       <li><a href="http://localhost:1313/tags/prototyping/">Prototyping</a></li>
       <li><a href="http://localhost:1313/tags/interaction-design/">Interaction Design</a></li>

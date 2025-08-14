@@ -3,6 +3,7 @@ title: "About Me"
 date: 2025-07-30T23:45:25-06:00
 draft: false
 ShowReadingTime: false
+ShowDate: false
 ---
 
 {{< rawhtml >}}
@@ -17,7 +18,7 @@ ShowReadingTime: false
   <div>
 {{< /rawhtml >}}
 
-For the past five years, I have had the privilege of working on design systems and I truly enjoy the craft. From helping to establish new systems to maintaining and evolving mature ones, there is always something fresh and intriguing to explore. Lately, I have been diving into the world of AI, discovering how it can enhance efficiency, improve consistency, and open new creative possibilities.
+For the past five years, I have had the privilege of working on design systems and I truly enjoy the craft. From helping to establish new systems to maintaining and evolving mature ones, there is always something new to explore. Lately, I have been diving into the world of AI, discovering how it can enhance efficiency, improve consistency, and open new creative possibilities.
 
 I live in Colorado Springs, Colorado and enjoy illustrating and running.
 
@@ -54,6 +55,8 @@ Here are some of the projects I've worked on:
     - [Part 4: Driving Team Adoption](../posts/design-system-series-part4-driving-team-adoption-strategies/)
     - [Part 5: Lessons Learned](../posts/design-system-series-part5-lessons-learned-starting-design-system/)
 
+---
+
 ## Skills
 
 #### Design Systems & UI Development
@@ -76,15 +79,17 @@ Agile/Scrum Methodologies, Kanban, Sprint Planning, Cross-Functional Collaborati
 #### Project & Stakeholder Management
 Design System Governance, Documentation Standards, Component guidance creation
 
-<!-- Figma, Design Tokens, UI Kits, Pattern Documentation, Static Site Generators, Figma, Git/GitHub, Accessibility, Agile, Project and Stakeholder management -->
+---
 
 ## Education
 
 **Bachelor of Science (B.S.) – Computer Software Engineering**
-_Western Governors University 
+_Western Governors University_
 
 **Associate of Science (A.S.) – Web Design & Digital Media**
-_Baker College 
+_Baker College_
+
+---
 
 ## Certifications
 
@@ -93,6 +98,8 @@ _Baker College
 - **Certified Internet Webmaster (CIW) Web Developer** – Certification Partners
 - **Certified User Experience Professional (CUEP)** – Texas Tech University
 - **ITIL Foundation** – AXELOS Global Best Practice
+
+---
 
 ## Professional development
 

@@ -2,7 +2,7 @@
 title: "Creating Tab prototypes using AI"
 date: 2025-07-30T23:45:49-06:00
 draft: false
-tags: ["#Design Systems", "Design Ops", "Prototyping", "Interaction design"]
+tags: ["Design Systems", "Design Ops", "Prototyping", "Interaction design"]
 categories: ["blog"]
 ---
 
