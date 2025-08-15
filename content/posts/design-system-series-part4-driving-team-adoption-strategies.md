@@ -1,6 +1,6 @@
 ---
 title: "Design System Series: Part 4 – Driving Team Adoption"
-date: 2025-07-03T15:10:00-06:00
+date: 2025-07-12T09:20:00-09:00
 draft: false
 tags: ["Design Systems", "Government Tech"]
 categories: ["blog"]

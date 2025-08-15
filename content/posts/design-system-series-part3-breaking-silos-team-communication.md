@@ -1,6 +1,6 @@
 ---
 title: "Design System Series: Part 3 – Breaking Down Silos Through Communication"
-date: 2025-06-25T13:00:00-06:00
+date: 2025-07-12T09:20:00-08:00
 draft: false
 tags: ["Design Systems", "Government Tech"]
 categories: ["blog"]

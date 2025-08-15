@@ -1,6 +1,6 @@
 ---
 title: "Design System Series: Part 5 – Lessons Learned from Starting a Design System"
-date: 2025-07-12T09:20:00-06:00
+date: 2025-07-12T09:20:00-10:00
 draft: false
 tags: ["Design Systems", "Government Tech"]
 categories: ["blog"]

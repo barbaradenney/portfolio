@@ -1,6 +1,6 @@
 ---
 title: "Design System Series: Part 2 – Gaining Stakeholder Buy-In"
-date: 2025-06-17T08:45:00-06:00
+date: 2025-07-12T09:20:00-07:00
 draft: false
 tags: ["Design Systems", "Government Tech", "Design Ops"]
 categories: ["blog"]
