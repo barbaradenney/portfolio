@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tags on Barbara Denney</title><link>https://barbaradenney.github.io/tags/</link><description>Recent content in Tags on Barbara Denney</description><generator>Hugo -- 0.148.2</generator><language>en-us</language><lastBuildDate>Fri, 15 Aug 2025 14:22:00 -0600</lastBuildDate><atom:link href="https://barbaradenney.github.io/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Design Ops</title><link>https://barbaradenney.github.io/tags/design-ops/</link><pubDate>Fri, 15 Aug 2025 14:22:00 -0600</pubDate><guid>https://barbaradenney.github.io/tags/design-ops/</guid><description/></item><item><title>Design Systems</title><link>https://barbaradenney.github.io/tags/design-systems/</link><pubDate>Fri, 15 Aug 2025 14:22:00 -0600</pubDate><guid>https://barbaradenney.github.io/tags/design-systems/</guid><description/></item><item><title>Interaction Design</title><link>https://barbaradenney.github.io/tags/interaction-design/</link><pubDate>Fri, 15 Aug 2025 14:22:00 -0600</pubDate><guid>https://barbaradenney.github.io/tags/interaction-design/</guid><description/></item><item><title>Prototyping</title><link>https://barbaradenney.github.io/tags/prototyping/</link><pubDate>Fri, 15 Aug 2025 14:22:00 -0600</pubDate><guid>https://barbaradenney.github.io/tags/prototyping/</guid><description/></item><item><title>#Design Systems</title><link>https://barbaradenney.github.io/tags/%23design-systems/</link><pubDate>Wed, 06 Aug 2025 10:15:00 -0600</pubDate><guid>https://barbaradenney.github.io/tags/%23design-systems/</guid><description/></item><item><title>Government Tech</title><link>https://barbaradenney.github.io/tags/government-tech/</link><pubDate>Sat, 12 Jul 2025 09:20:00 -0600</pubDate><guid>https://barbaradenney.github.io/tags/government-tech/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Barbara Denney</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Barbara Denney</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Aug 2025 14:22:00 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design Ops</title>
+      <link>http://localhost:1313/tags/design-ops/</link>
+      <pubDate>Fri, 15 Aug 2025 14:22:00 -0600</pubDate>
+      <guid>http://localhost:1313/tags/design-ops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design Systems</title>
+      <link>http://localhost:1313/tags/design-systems/</link>
+      <pubDate>Fri, 15 Aug 2025 14:22:00 -0600</pubDate>
+      <guid>http://localhost:1313/tags/design-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interaction Design</title>
+      <link>http://localhost:1313/tags/interaction-design/</link>
+      <pubDate>Fri, 15 Aug 2025 14:22:00 -0600</pubDate>
+      <guid>http://localhost:1313/tags/interaction-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prototyping</title>
+      <link>http://localhost:1313/tags/prototyping/</link>
+      <pubDate>Fri, 15 Aug 2025 14:22:00 -0600</pubDate>
+      <guid>http://localhost:1313/tags/prototyping/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>#Design Systems</title>
+      <link>http://localhost:1313/tags/%23design-systems/</link>
+      <pubDate>Wed, 06 Aug 2025 10:15:00 -0600</pubDate>
+      <guid>http://localhost:1313/tags/%23design-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Government Tech</title>
+      <link>http://localhost:1313/tags/government-tech/</link>
+      <pubDate>Sat, 12 Jul 2025 09:20:00 -1000</pubDate>
+      <guid>http://localhost:1313/tags/government-tech/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

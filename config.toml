@@ -3,6 +3,14 @@ languageCode = 'en-us'
 title = 'Barbara Denney'
 theme = 'PaperMod'
 
+# Google Analytics
+googleAnalytics = 'G-FH6DS1H052'
+
+[privacy]
+  [privacy.googleAnalytics]
+    respectDoNotTrack = true
+    anonymizeIP = true
+
 [params]
   env = "production"
   description = "Barbara Denney"
