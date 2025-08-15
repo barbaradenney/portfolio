@@ -19,7 +19,7 @@ hidemeta: true
   <div>
 {{< /rawhtml >}}
 
-I have 15+ years of of UX design and front-end development experience. For the past five years, I have had the privilege of working on design systems and I truly enjoy the craft. From helping to establish new systems to maintaining and evolving mature ones, there is always something new to explore. Lately, I have been diving into the world of AI, discovering how it can enhance efficiency and open new creative possibilities.
+I have 15+ years of UX design and front-end development experience. For the past five years, I have had the privilege of working on design systems and I truly enjoy it. From helping to establish new systems to maintaining and evolving mature ones, there is always something new to explore. Lately, I have been diving into the world of AI, discovering how it can enhance efficiency and open new creative possibilities.
 
 I live in Colorado Springs, Colorado and enjoy illustrating and running.
 
