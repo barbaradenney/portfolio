@@ -17,28 +17,28 @@ But with more experience under my belt, I've come to understand that **operation
 Here's what I've learned about the unglamorous but critical processes that make design systems sustainable:
 
 ### Support Infrastructure
-**Help desk workflows** became essential as adoption grew. We standardized our issue tracking through GitHub where every request, bug report, and question gets documented. This creates accountability and helps us spot patterns in user needs. We created help desk support shifts for team members so we could always quickly respond to request and questions.
+**Help desk workflows** became essential as adoption grew. We standardized our issue tracking through GitHub where every request, bug report, and question gets documented. This creates accountability and helps us spot patterns in user needs. We created help desk support shifts for team members so we could always quickly respond to requests and questions.
 
-**Governance** Having a dedicated review process to make sure teams are following guidelines and using the correct components is a helpful process that acts as checks and balances for the Design System. Sometimes the governance team finds places where further guidance and clarification is needed. Other times the governance teams uses the design system to verify teams are implementing patterns and design solutions correctly. 
+**Governance** Having a dedicated review process to make sure teams are following guidelines and using the correct components is a helpful process that acts as checks and balances for the Design System. Sometimes the governance team finds places where further guidance and clarification is needed. Other times the governance team uses the design system to verify teams are implementing patterns and design solutions correctly. 
 
-**Design System Council** If you have a solid contribution process in place, you will need a process for figuring out what should go into the design system what should not. Create a  design system council of leaders within your organization that can bring valuable knowledge and expertise to make these key decisions. The Design System council solves a few different problems. 
+**Design System Council** If you have a solid contribution process in place, you will need a process for figuring out what should go into the design system and what should not. Create a design system council of leaders within your organization that can bring valuable knowledge and expertise to make these key decisions. The Design System council solves a few different problems. 
 1. It creates group consensus on what should be in the design system
 2. It is an opportunity for teams to share knowledge
 3. It raises awareness of how what is offered in the Design System
-4. It creates Design System champions among the organization which creates opporutnities for contributions
+4. It creates Design System champions among the organization which creates opportunities for contributions
 
 ### Documented Processes
-WHen I was in the military we had SOP's which stands for Standard Operating Procedurecs. It was a what the military created to document all kinds of procedures. If there was an action to take, there was usually a SOP to follow. This can be applied to Design Systems as well. Creating small, repeatable workflows create predictable results. Here are some processes that can be standardized: 
+When I was in the military we had SOPs which stands for Standard Operating Procedures. It was what the military created to document all kinds of procedures. If there was an action to take, there was usually a SOP to follow. This can be applied to Design Systems as well. Creating small, repeatable workflows creates predictable results. Here are some processes that can be standardized: 
 - **Icon additions**: A clear approval process prevents icon bloat and maintains visual consistency
 - **Token management**: Structured approaches to adding spacing, color, and typography tokens prevent design drift across teams
-- **Release documentation**: This is pretty standard accross most products but becomes more complicated for the design system as there might be many different releases happening within the design system. For example Figma, Documentation, and code can all have their own release processes. How do you coordinate all the releases with all the different sources of truth?
+- **Release documentation**: This is pretty standard across most products but becomes more complicated for the design system as there might be many different releases happening within the design system. For example Figma, Documentation, and code can all have their own release processes. How do you coordinate all the releases with all the different sources of truth?
 - **Figma publishing**: We established regular publishing schedules with quality checklists to ensure smooth designer handoffs
 - **Contribution pathways**: Open contribution processes transform users into stakeholders and collaborators
-- **Design System communication udpates**: Strategic announcements, demos, and proactive Slack updates keep the system visible and relevant
+- **Design System communication updates**: Strategic announcements, demos, and proactive Slack updates keep the system visible and relevant
 
 ## Final Thought
 
-The core lesson? A great design system isn't just about components. It's about the systems that support the system. Have strong processes in place ensure the longevity of the design system use.
+The core lesson? A great design system isn't just about components. It's about the systems that support the system. Having strong processes in place ensures the longevity of the design system's use.
 
 ---
 
