@@ -1,6 +1,6 @@
 ---
 title: "Design System Series: Part 2 – Gaining Stakeholder Buy-In"
-date: 2025-07-30T23:45:49-06:00
+date: 2025-06-17T08:45:00-06:00
 draft: false
 tags: ["Design Systems", "Government Tech", "Design Ops"]
 categories: ["blog"]
@@ -14,7 +14,7 @@ categories: ["blog"]
 
 ---
 
-One of the most critical steps in establishing a design system—especially within a government contract or large organization—is gaining stakeholder buy-in. Without it, a design system risks being sidelined as "extra work" instead of being seen as an essential part of product development.
+One of the most critical steps in establishing a design system, especially within a government contract or large organization, is gaining stakeholder buy-in. Without it, a design system risks being sidelined as "extra work" instead of being seen as an essential part of product development.
 
 ## Why Stakeholder Buy-in Matter
 

@@ -1,6 +1,6 @@
 ---
 title: "Building a Scalable Design System: Integrating Multiple Products"
-date: 2025-07-30T23:45:49-06:00
+date: 2025-07-22T11:45:00-06:00
 draft: false
 tags: ["Design Systems", "Design Ops"]
 categories: ["blog"]

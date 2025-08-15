@@ -1,6 +1,6 @@
 ---
 title: "Design System Series: Part 3 – Breaking Down Silos Through Communication"
-date: 2025-07-30T23:45:49-06:00
+date: 2025-06-25T13:00:00-06:00
 draft: false
 tags: ["Design Systems", "Government Tech"]
 categories: ["blog"]
@@ -14,7 +14,7 @@ categories: ["blog"]
 
 ---
 
-Once stakeholder buy-in was secured, the next big challenge was building bridges between siloed teams. In large organizations or government contracts, teams often operate in isolation—with little incentive (and sometimes active disincentives) to share information. This makes cross-functional alignment incredibly difficult.
+Once stakeholder buy-in was secured, the next big challenge was building bridges between siloed teams. In large organizations or government contracts, teams often operate in isolation with little incentive (and sometimes active disincentives) to share information. This makes cross-functional alignment incredibly difficult.
 
 ## Why Communication is Hard
 
@@ -35,7 +35,7 @@ We ran workshops for design audits, process retrospectives, and implementation p
 
 ## Key Takeaway
 
-Communication wasn’t just about Slack messages or meetings. It was about **creating shared rituals** and safe spaces to solve problems together. Breaking down silos required more than process—it needed a people-first approach.
+Communication wasn't just about Slack messages or meetings. It was about **creating shared rituals** and safe spaces to solve problems together. Breaking down silos required more than process. It needed a people-first approach.
 
 ---
 

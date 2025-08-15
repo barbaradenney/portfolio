@@ -1,6 +1,6 @@
 ---
 title: "Design System Series: Part 1 – Why We Built It"
-date: 2025-07-30T23:45:49-06:00
+date: 2025-06-11T14:30:00-06:00
 draft: false
 tags: ["#Design Systems", "Government Tech"]
 categories: ["blog"]
@@ -20,7 +20,7 @@ The client’s website was undergoing a bold redesign: new tech, new processes, 
 
 Initially, things were going well until we learned another team’s redesign (still in testing) looked very different, despite being based on the same kit. This discrepancy highlighted the need for a **shared resource**: a Design System.
 
-This was our turning point—not just a visual mismatch, but a systemic need for alignment.
+This was our turning point. Not just a visual mismatch, but a systemic need for alignment.
 
 ---
 

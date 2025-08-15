@@ -1,6 +1,6 @@
 ---
 title: "Design System Series: Part 5 – Lessons Learned from Starting a Design System"
-date: 2025-07-30T23:45:49-06:00
+date: 2025-07-12T09:20:00-06:00
 draft: false
 tags: ["Design Systems", "Government Tech"]
 categories: ["blog"]
@@ -14,7 +14,7 @@ categories: ["blog"]
 
 ---
 
-After months of collaboration, testing, and iteration, the design system had grown from a simple idea into an adopted framework across multiple teams. But it wasn’t always a smooth journey. Like most large initiatives, it came with important lessons—some expected, many surprising.
+After months of collaboration, testing, and iteration, the design system had grown from a simple idea into an adopted framework across multiple teams. But it wasn't always a smooth journey. Like most large initiatives, it came with important lessons, some expected and many surprising.
 
 Here are the most valuable takeaways from the experience:
 
@@ -46,7 +46,7 @@ Highlighting when a team implements a component, contributes guidance, or improv
 
 A design system is never "done". It evolves with the product, the people, and the organization. But if there's one lesson that stood above the rest, it's this: **a successful design system is less about the components and more about the community behind it.**
 
-Thanks for reading this series. If you're building a design system, especially in a complex or government environment, I hope these posts help you feel seen—and maybe even a little more equipped.
+Thanks for reading this series. If you're building a design system, especially in a complex or government environment, I hope these posts help you feel seen and maybe even a little more equipped.
 
 ---
 

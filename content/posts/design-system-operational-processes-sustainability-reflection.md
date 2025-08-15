@@ -1,6 +1,6 @@
 ---
 title: "Reflection on Early Lessons"
-date: 2025-07-30T23:45:49-06:00
+date: 2025-07-29T16:30:00-06:00
 draft: false
 tags: ["#Design Systems", "Design Ops"]
 categories: ["blog"]
@@ -8,7 +8,7 @@ categories: ["blog"]
 
 ## Looking Back on Hard-Won Lessons
 
-A few years ago, I wrote a [blog post](https://adhoc.team/2022/07/18/using-design-systems-digital-success-federal-space/) reflecting on the early lessons from establishing a new design system. The big ideas I shared that focused on creating alignment, scaling consistency, building shared patterns—remain as relevant as ever.
+A few years ago, I wrote a [blog post](https://adhoc.team/2022/07/18/using-design-systems-digital-success-federal-space/) reflecting on the early lessons from establishing a new design system. The big ideas I shared that focused on creating alignment, scaling consistency, and building shared patterns remain as relevant as ever.
 
 But with more experience under my belt, I've come to understand that **operational processes** are the invisible foundation that determines whether a design system thrives or slowly deteriorates. These can be considered Design System operations.
 
@@ -17,7 +17,7 @@ But with more experience under my belt, I've come to understand that **operation
 Here's what I've learned about the unglamorous but critical processes that make design systems sustainable:
 
 ### Support Infrastructure
-**Help desk workflows** became essential as adoption grew. We standardized our issue tracking through GitHub—every request, bug report, and question gets documented. This creates accountability and helps us spot patterns in user needs. We created help desk support shifts for team members so we could always quickly respond to request and questions.
+**Help desk workflows** became essential as adoption grew. We standardized our issue tracking through GitHub where every request, bug report, and question gets documented. This creates accountability and helps us spot patterns in user needs. We created help desk support shifts for team members so we could always quickly respond to request and questions.
 
 **Governance** Having a dedicated review process to make sure teams are following guidelines and using the correct components is a helpful process that acts as checks and balances for the Design System. Sometimes the governance team finds places where further guidance and clarification is needed. Other times the governance teams uses the design system to verify teams are implementing patterns and design solutions correctly. 
 
@@ -38,7 +38,7 @@ WHen I was in the military we had SOP's which stands for Standard Operating Proc
 
 ## Final Thought
 
-The core lesson? A great design system isn’t just about components—it’s about the systems that support the system. Have strong processes in place ensure the longevity of the design system use.
+The core lesson? A great design system isn't just about components. It's about the systems that support the system. Have strong processes in place ensure the longevity of the design system use.
 
 ---
 

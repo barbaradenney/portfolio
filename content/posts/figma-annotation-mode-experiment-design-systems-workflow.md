@@ -1,6 +1,6 @@
 ---
 title: "Experimenting with Annotation Mode in Figma"
-date: 2025-07-30T23:45:49-06:00
+date: 2025-08-06T10:15:00-06:00
 draft: false
 tags: ["#Design Systems", "Design Ops"]
 categories: ["blog"]
@@ -8,7 +8,7 @@ categories: ["blog"]
 
 ## Background
 
-Our design team recently began exploring a new way to annotate designs directly in Figma. While searching for examples of this technique online, we came up short—which made us wonder if other teams were thinking about this the same way we were.
+Our design team recently began exploring a new way to annotate designs directly in Figma. While searching for examples of this technique online, we came up short, which made us wonder if other teams were thinking about this the same way we were.
 
 Figma already supports switching between properties using **modes** which is great for themes like light/dark mode or responsive layouts. We started thinking, could we use modes to annotate?
 

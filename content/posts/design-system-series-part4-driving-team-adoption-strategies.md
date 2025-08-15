@@ -1,6 +1,6 @@
 ---
 title: "Design System Series: Part 4 – Driving Team Adoption"
-date: 2025-07-30T23:45:49-06:00
+date: 2025-07-03T15:10:00-06:00
 draft: false
 tags: ["Design Systems", "Government Tech"]
 categories: ["blog"]
@@ -14,7 +14,7 @@ categories: ["blog"]
 
 ---
 
-Even with strong leadership support and cross-team communication in place, getting individual teams to adopt the design system is an entirely different challenge. Each team has their own roadmap, their own deadlines, and often their own way of doing things. Adoption requires time, effort, and a shift in mindset—and none of that happens by accident.
+Even with strong leadership support and cross-team communication in place, getting individual teams to adopt the design system is an entirely different challenge. Each team has their own roadmap, their own deadlines, and often their own way of doing things. Adoption requires time, effort, and a shift in mindset, and none of that happens by accident.
 
 ## The Adoption Challenge
 
@@ -43,7 +43,7 @@ Leadership played an ongoing role by encouraging (and in some cases, requiring) 
 
 ## Takeaway
 
-Adoption doesn’t happen because a system exists—it happens because people advocate for it, simplify it, and lead by example. Starting small and keeping the momentum going are key.
+Adoption doesn't happen because a system exists. It happens because people advocate for it, simplify it, and lead by example. Starting small and keeping the momentum going are key.
 
 ---
 
