@@ -9,10 +9,10 @@
     <lastBuildDate>Fri, 15 Aug 2025 14:22:00 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Creating Tab prototypes using AI</title>
-      <link>http://localhost:1313/posts/ai-assisted-prototyping-tab-components-design-systems/</link>
+      <title>Creating Tabs prototypes using AI</title>
+      <link>http://localhost:1313/posts/ai-assisted-prototyping-tabs-components-design-systems/</link>
       <pubDate>Fri, 15 Aug 2025 14:22:00 -0600</pubDate>
-      <guid>http://localhost:1313/posts/ai-assisted-prototyping-tab-components-design-systems/</guid>
+      <guid>http://localhost:1313/posts/ai-assisted-prototyping-tabs-components-design-systems/</guid>
       <description>&lt;h2 id=&#34;the-challenge-of-tabs&#34;&gt;The Challenge of Tabs&lt;/h2&gt;
 &lt;p&gt;Tabs can be deceptively simple, but under the surface they come with complex usability and accessibility considerations.&lt;/p&gt;
 &lt;p&gt;Some of the key issues you need to solve when creating tabs:&lt;/p&gt;

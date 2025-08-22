@@ -1,5 +1,5 @@
 ---
-title: "Creating Tab prototypes using AI"
+title: "Creating Tabs prototypes using AI"
 date: 2025-08-15T14:22:00-06:00
 draft: false
 tags: ["Design Systems", "Design Ops", "Prototyping", "Interaction design"]
