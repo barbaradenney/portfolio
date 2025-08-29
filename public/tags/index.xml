@@ -23,6 +23,13 @@
       <description></description>
     </item>
     <item>
+      <title>Government Tech</title>
+      <link>http://localhost:1313/tags/government-tech/</link>
+      <pubDate>Fri, 15 Aug 2025 14:22:00 -0600</pubDate>
+      <guid>http://localhost:1313/tags/government-tech/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Interaction Design</title>
       <link>http://localhost:1313/tags/interaction-design/</link>
       <pubDate>Fri, 15 Aug 2025 14:22:00 -0600</pubDate>
@@ -41,13 +48,6 @@
       <link>http://localhost:1313/tags/%23design-systems/</link>
       <pubDate>Wed, 06 Aug 2025 10:15:00 -0600</pubDate>
       <guid>http://localhost:1313/tags/%23design-systems/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Government Tech</title>
-      <link>http://localhost:1313/tags/government-tech/</link>
-      <pubDate>Sat, 12 Jul 2025 09:20:00 -1000</pubDate>
-      <guid>http://localhost:1313/tags/government-tech/</guid>
       <description></description>
     </item>
   </channel>
